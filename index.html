@@ -16,6 +16,64 @@
           background-position: center;
           background-repeat: no-repeat;
         }
+
+        #top-block {
+            height: 300px; 
+            display: flex; 
+            justify-content: center; 
+            text-align:justify; 
+
+            margin-left: 50px;
+            margin-right: 50px;
+        }
+        
+        #block {
+            flex: 1 1 0px; 
+            margin-right: 20px; 
+            margin-left: 20px;
+        }
+        
+        #block-title {
+            height: 150px; 
+            display:flex; 
+            flex-direction: column; 
+            justify-content: center; 
+            align-items: center;
+        }
+
+        #block-title h1 {
+            margin-bottom: 30px; 
+            text-align:center;
+        }
+
+        #block-title img{
+            height: 80px;
+        }
+
+        #block-description {
+            display:flex; 
+            flex-direction: column; 
+            justify-content: flex-start; 
+            align-items: center;
+        }
+
+        #welcomeDescription {
+            margin: 40px 170px 0px 170px;
+        }
+
+        @media (max-width: 950px) {
+            #top-block {
+                flex-direction: column;
+                height: auto;
+            }
+        }
+
+        @media (max-width: 950px) {
+            #welcomeDescription {
+                margin: 30px 30px 0px 30px;
+            }
+        }
+
     </style>
 </head>
 <body>
@@ -78,12 +136,12 @@ $(document).ready(function(){
 
     
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-            <a class="navbar-brand" href="#">Knowledge everyday</a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <a class="navbar-brand" href="#">Knowledge everyday</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
-            </button>
+        </button>
 
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item active">
                     <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
@@ -113,7 +171,65 @@ $(document).ready(function(){
     </header>
     
 
-    <p class="description">One place for all the educational resources you need</p>
+    <h1 class="text-center" id="welcomeDescription">Welcome to Knowledge Everyday!</h1>
+
+    <p class="text-center" id="welcomeDescription">In the era of computers and mobile devices, learning has never been easier. However, still most of the people cannot find the right sources to high-quality educational resources. For this reason, we created a list of numberous different resources, all available online and for free, which will help you improve your knowledge in different fields.</p>
+
+    <h3 class="text-center" id="welcomeDescription" style="margin-bottom: 30px;">What our website offers:</h3>
+
+    <div id="top-block">
+        <div id="block">
+            <div id="block-title">
+
+                <img src="educational_video.svg">
+
+                <h1>
+                    Educational Videos
+                </h1>
+            </div>
+
+            <div id="block-description">
+                <p>
+                    Collection of educational videos and random video generator which will help you discover new topics everytime you open our website. In case you want to dive deeper, you can always generate new videos by using the button next to the video. Visit the Educational Videos page to start learning right now.
+                </p>
+            </div>
+        </div>
+
+        <div id="block">
+            <div id="block-title">
+
+                <img src="personal_development.svg">
+
+                <h1>
+                    Personal Development
+                </h1>
+            </div>
+
+            <div id="block-description">
+                <p>
+                    Skills as communication, team work and time management have never been more important. Visit our Personal Development page to start working on improving your soft skills today.
+                </p>
+            </div>
+        </div>
+
+        <div id="block">
+            <div id="block-title">
+
+                <img src="computer_programming.svg">
+
+                <h1>
+                    Computer Programming
+                </h1>
+            </div>
+
+            <div id="block-description">
+                <p>
+                    As young computer science enthusiasts, we actively share tips and tricks on improving your computer science skills in the Computer Programming part of our website.
+                </p>
+            </div>
+        </div>
+    </div>
+
 
     <button id="buttonNewVideo" class="btn btn-default">Get new video</button>
 
