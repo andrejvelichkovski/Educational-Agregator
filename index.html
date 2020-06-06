@@ -1,0 +1,66 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Educational agregator</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body>
+
+<script type="text/javascript">
+
+function getVideo() {
+    return new Promise((resolve, reject) => {
+      	var channelId = "UCeiYXex_fwgYDonaTcSIk6w";
+      	var apiKey = "AIzaSyBp2Moe3yd22242oT2U51mjiiE3QCwp4KU";
+        var videosUrl = "https://www.googleapis.com/youtube/v3/search?order=date&part=snippet&channelId=" + channelId + "&maxResults=50&key=" + apiKey;
+     	var ajax = new XMLHttpRequest();
+      	ajax.open("GET", videosUrl, true);
+      	ajax.send();
+
+      	ajax.onreadystatechange = function() {
+          	if(this.readyState == 4 && this.status == 200) {
+              	var json = JSON.parse(this.responseText); 
+              	var videos = json.items;
+
+             	var randomNumber = Math.floor(Math.random() * (videos.length + 1));
+             	var randomVideo = videos[randomNumber];
+
+              	var videoId = randomVideo.id.videoId;
+              	var videoUrl = "https://www.googleapis.com/youtube/v3/videos?id=" + videoId + "&part=snippet,contentDetails,statistics&key=" + apiKey;
+
+              	var ajax = new XMLHttpRequest();
+              	ajax.open("GET", videoUrl, true);
+              	ajax.send();
+
+              	ajax.onreadystatechange = function() {
+                 	if(this.readyState == 4 && this.status == 200) {
+
+                      	var json = JSON.parse(this.responseText);
+                      	var singleVideo = json.items[0].id;
+                      	var youtubeUrl = "https://www.youtube.com/embed/" + singleVideo;
+                     	resolve(youtubeUrl);
+                	}
+            	};
+        	}
+        }
+    });
+}
+
+
+$(document).ready(function(){
+	getVideo().then(result => {
+		$("#video").prop("src", result);
+	});
+});
+
+</script>
+
+ 
+	<p class="description">One place for all the educational resources you need</p>
+
+	<button id="buttonNewVideo">Get new video</button>
+
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/-bqbFbxjBig" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen id="video"></iframe>
+</body>
+</html>
