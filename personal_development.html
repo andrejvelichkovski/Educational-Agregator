@@ -23,15 +23,199 @@
     		margin-top: 15px;
     	}
 
+    	#blogs {
+    		display: flex;
+    		justify-content: center;
+    		align-items: center;
+    	}
+
+    	#blogs img {
+    		max-width: 200px;
+    		margin-top: 20px;
+    		margin-left: 20px;
+    		margin-right: 20px;
+    	}
+
     	@media(max-width: 950px) {
     		#description {
     			margin: 30px 20px 0px 20px;
     		}
+    		#blogs {
+    			flex-direction: column;
+    		}
+    	}
+
+    	/* CSS for the blog posts*/
+    	a {
+	     color: inherit;
+	     text-decoration: none;
+	    }
+	     ul {
+	         list-style: none;
+	    }
+	     .blog {
+	         margin: 3rem 1rem;
+	         display: flex;
+	         flex-direction: column;
+	         justify-content: center;
+	         align-items: center;
+	    }
+	     .blog__header {
+	         text-align: center;
+	    }
+	     .blog__header1 {
+	         margin: 0;
+	         font-size: 1.1rem;
+	         font-weight: 300;
+	         letter-spacing: 0.2px;
+	         text-transform: uppercase;
+	    }
+	     .blog__header2 {
+	         margin-top: 0.3rem;
+	         font-size: 1.4rem;
+	         font-weight: 500;
+	    }
+	     .blog__header2Span {
+	         font-weight: 400;
+	         font-size: 1.25rem;
+	    }
+	     .blog__slider {
+	         padding: 0;
+	         display: flex;
+	         flex-direction: row;
+	         justify-content: center;
+	    }
+	     .blog__post {
+	         margin: 3rem 1rem;
+	         width: 25%;
+	         -webkit-box-shadow: 9px 9px 20px 0px rgba(0, 0, 0, .4);
+	         -moz-box-shadow: 9px 9px 20px 0px rgba(0, 0, 0, .4);
+	         box-shadow: 9px 9px 20px 0px rgba(0, 0, 0, .4);
+	    }
+	     .blog__topImg {
+	         max-width: 100%;
+	    }
+	     .blog__content {
+	         padding: 0.8 ßrem;
+	    }
+	     .blog__preview {
+	         font-size: 0.95rem;
+	         font-weight: 300;
+	    }
+	     .blog__title {
+	         margin-top: 0;
+	         font-size: 1.4rem;
+	    }
+	     .blog__intro {
+	         line-height: 1.5;
+	    }
+	     .blog__info {
+	         font-weight: 300;
+	    }
+	     .blog__author {
+	         font-size: 0.9rem;
+	    }
+	     .blog__date {
+	         font-size: 0.85rem;
+	    }
+	     .blog__counter {
+	         margin: 0;
+	         padding: 0;
+	         display: flex;
+	         flex-direction: row;
+	    }
+	     .blog__counterItem {
+	         height: 20px;
+	         width: 20px;
+	         margin: 0.5rem;
+	         background-color: lightgray;
+	         border: 1px solid lightgray;
+	         border-radius: 25px;
+	    }
+	     .blog__counterItem:hover {
+	         cursor: pointer;
+	    }
+	     .blog__counterItem-active {
+	         border: 1px solid lightblue;
+	         background-color: lightblue;
+	    }
+
+	    @media(max-width: 950px) {
+    		.blog__slider {
+    			flex-direction: column;
+    			align-items: center;
+    			justify-content: center;
+    		}
+    		.blog__post {
+    			width: 65%;
+    		}
+    	}
+
+    	@media(max-width: 700px) {
+    		.blog__post {
+    			width: 80%;
+    		}
     	}
     </style>
 </head>
-	
+
 <body>
+
+<!-- JS to get the posts -->
+<script type="text/javascript">
+    fetch('https://api.rss2json.com/v1/api.json?rss_url=https://forge.medium.com/feed')
+   .then((res) => res.json())
+   .then((data) => {
+      // Filter for acctual posts. Comments don't have categories, therefore can filter for items with categories bigger than 0
+      const res = data.items //This is an array with the content. No feed, no info about author etc..
+      const posts = res.filter(item => item.categories.length > 0) // That's the main trick* !
+
+      // Functions to create a short text out of whole blog's content
+      function toText(node) {
+         let tag = document.createElement('div')
+         tag.innerHTML = node
+         node = tag.innerText
+         return node
+      }
+      function shortenText(text,startingPoint ,maxLength) {
+         return text.length > maxLength?
+         text.slice(startingPoint, maxLength):
+         text
+      }
+
+      // Put things in right spots of markup
+      
+      const numberPosts = 3 ;
+      let nwPosts = [];
+
+      for(let i=0;i<Math.min(posts.length, numberPosts);i++) {
+        nwPosts.push(posts[i]);
+      }
+
+      let output = '';
+      nwPosts.forEach((item) => {
+         output += `
+         <li class="blog__post">
+            <a href="${item.link}" target="__blank">
+               <img src="${item.thumbnail}" class="blog__topImg"></img>
+               <div class="blog__content">
+                  <div class="blog_preview">
+                     <h2 class="blog__title">${item.title}</h2>
+                     <p class="blog__intro">${'...' + shortenText(toText(item.content),60, 300)+ '...'}</p>
+                  </div>
+                  <hr>
+                  <div class="blog__info">
+                     <span class="blog__author">${item.author}</span>
+                     <span class="blog__date">${shortenText(item.pubDate,0 ,10)}</span>
+                  </div>
+               </div>
+            <a/>
+         </li>`
+
+      })
+      document.querySelector('.blog__slider').innerHTML = output
+})
+</script>
 
 	<!-- Menu -->
 	<nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -71,9 +255,29 @@
     </header>
 
     <div id="description">
-    	<h1 class="text-center">Improve consistently</h1>
+    	<h1 class="text-center">Improve your career consistently</h1>
     	<p class="lead text-center">Our website collects the posts from many different blogs with famous authours writing on career topics everyday. Some of the blogs we connect you to:</p>
+
+    	<div id="blogs">
+    		<img src="blog1.png">
+    		<img src="blog2.png">
+    		<img src="blog3.png">
+    		<img src="blog4.png">
+    	</div>
 	</div>
+
+	<section id="blog" class="blog">
+	  	<ul class="blog__slider">
+	    	Posts go here
+	  	</ul>
+
+		<ul class="blog__counter">
+	    	<li class="blog__counterItem blog__counterItem-active"></li>
+	    	<li class="blog__counterItem"></li>
+	    	<li class="blog__counterItem"></li>
+	  	</ul>
+	</section>
+
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
