@@ -6,17 +6,20 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
     <style>
+    	h2 {
+    		color: #4f98ca;
+    	}
     	.imageBackground {
           height: 50vh;
           min-height: 500px;
-          background-image: url('personal-development-2.jpg');
+          background-image: url('resources/personal-development-2.jpg');
           background-size: cover;
           background-position: center;
           background-repeat: no-repeat;
         }
 
     	#description {
-    		margin: 30px 170px 0px 170px;
+    		margin: 50px 170px 0px 170px;
     	}
 
     	#description p {
@@ -140,6 +143,19 @@
 	         background-color: lightblue;
 	    }
 
+	    #old-resources {
+	    	background-color: #dddddd;
+	    }
+
+	    #old-resources p {
+	    	margin: 10px 150px 10px 150px;
+	    }
+
+	    #old-resources h2 {
+	    	padding-top: 50px;
+	    	margin-bottom: 20px;
+	    }
+
 	    @media(max-width: 950px) {
     		.blog__slider {
     			flex-direction: column;
@@ -148,6 +164,9 @@
     		}
     		.blog__post {
     			width: 65%;
+    		}
+    		#old-resources p {
+    			margin: 10px 20px 10px 20px;
     		}
     	}
 
@@ -227,7 +246,7 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item active">
-                    <a class="nav-link" href="#">Home</a>
+                    <a class="nav-link" href="index.html">Home</a>
                 </li> 
                 <li class="nav-item active">
                     <a class="nav-link" href="#">Educational Videos</a>
@@ -255,14 +274,14 @@
     </header>
 
     <div id="description">
-    	<h1 class="text-center">Improve your career consistently</h1>
+    	<h2 class="text-center">Improve your career consistently</h1>
     	<p class="lead text-center">Our website collects the posts from many different blogs with famous authours writing on career topics everyday. Some of the blogs we connect you to:</p>
 
     	<div id="blogs">
-    		<img src="blog1.png">
-    		<img src="blog2.png">
-    		<img src="blog3.png">
-    		<img src="blog4.png">
+    		<img src="resources/blog1.png">
+    		<img src="resources/blog2.png">
+    		<img src="resources/blog3.png">
+    		<img src="resources/blog4.png">
     	</div>
 	</div>
 
@@ -278,6 +297,29 @@
 	  	</ul>
 	</section>
 
+	<section id="old-resources">
+		<h2 class="text-center">Timeless resources on improving your soft skills</h1>
+		<p class="text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In placerat odio libero, ac volutpat arcu imperdiet facilisis. Nulla tempor turpis lacinia nibh bibendum facilisis. Phasellus dapibus, ante at faucibus sollicitudin, purus lectus aliquam nisi, accumsan varius lacus sapien id purus. Sed non dapibus leo. Duis pulvinar eget tellus porta finibus. Proin ornare sit amet neque aliquet gravida. Etiam vitae orci pulvinar, scelerisque lacus eu, rutrum ipsum. Aenean diam velit, egestas id nulla eget, mollis ornare mi. Fusce vel nunc eget nisi placerat aliquam.</p>
+
+		<p class="text-center" style="margin-bottom: 0px; padding-bottom: 50px;">Fusce lacinia volutpat nunc sit amet vulputate. Donec eget leo imperdiet, mattis neque et, blandit risus. Sed metus sem, dapibus non tempus non, iaculis quis elit. Maecenas sed consequat arcu. Quisque gravida, purus quis sodales vestibulum, lacus nisi dignissim quam, id euismod neque dolor eget turpis. Pellentesque aliquam eros eget pretium vehicula. Ut varius nisl est, nec varius orci sollicitudin at. Morbi vulputate leo sed metus luctus, quis tristique nisl pulvinar. Cras consequat bibendum eros. Ut pellentesque mauris nunc, eu consectetur quam vehicula vitae.</p>
+	</section>
+
+	<section style="background-color: #4f98ca" class="text-center">
+		<h2 style="color: white; padding-top: 50px;">Knowledge Everyday</h2>
+
+		<p class="lead" style="color: white; margin:0px">We combine all the educational resources you need for free.
+		<p class="lead" style="margin:0px; color:white;">Contact us with your ideas and suggestions.</p>
+
+		<div style="padding-bottom: 50px;">
+			<button class="btn btn-light" style="border-radius: 8px; margin-top: 10px; padding-bottom: 9px;"><img src="resources/mail.svg" style="width: 20px;"></button>
+		</div>
+	</section>
+
+	<footer style="background-color: white;" class="text-center">
+		<p style="margin: 0px 0px 0px 0px; padding-top: 10px;">Knowledge Everyday - Open Source Educational Agregator with numerous resources in different fields.</p>
+		<p style="margin: 0px 0px 0px 0px; padding-bottom: 10px;"><em>We don't own any of the content being shown on our website, we are just collecting it on one place to make it easier for access.</em></p>
+		<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+	</footer>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
