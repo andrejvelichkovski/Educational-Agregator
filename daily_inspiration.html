@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<title>Daily Inspiration - Educational Agregator</title>
+
+	<style>
+		.imageBackground {
+          height: 94vh;
+          min-height: 500px;
+          background-image: url('resources/background-image-2.jpg');
+          background-size: cover;
+          background-position: center;
+          background-repeat: no-repeat;
+        }
+	</style>
+</head>
+<body>
+
+<script type="text/javascript">
+const colors = ["#4e4747","#b4aba0","#3c5258","#867650","#b51113","#75404b","#868c94","#3695cd","#715f57","#4848a8","#f39238","#8e7054","#979094","#8c63d0","#8b8072","#4a96d1","#8e9589","#50896c","#747180","#657a74","#5f5563","#265b49","#50ace0","#20172e","#d2beaf","#846638","#94a897","#3a3e93","#65670f","#2b231c","#c29766","#303030"];
+
+function getRandomNumber() {
+	let number = Math.floor(Math.random() * 32) + 1;
+	return number;
+}
+
+let quotesData;
+
+/*
+  Code by Gabriel Nunes
+  Modified by Todd Chaffee to use Camper gist for JSON Quote data.
+*/
+
+function inIframe () { try { return window.self !== window.top; } catch (e) { return true; } }
+
+function openURL(url){
+  window.open(url, 'Share', 'width=550, height=400, toolbar=0, scrollbars=1 ,location=0 ,statusbar=0,menubar=0, resizable=0');
+}
+
+function getQuotes() {
+  return $.ajax({
+    headers: {
+      Accept: "application/json"
+    },
+    url: 'https://gist.githubusercontent.com/camperbot/5a022b72e96c4c9585c32bf6a75f62d9/raw/e3c6895ce42069f0ee7e991229064f167fe8ccdc/quotes.json',
+    success: function(jsonQuotes) {
+      if (typeof jsonQuotes === 'string') {
+        quotesData = JSON.parse(jsonQuotes);
+        console.log('quotesData');
+        console.log(quotesData);
+      }
+    }
+  });
+}
+
+function getRandomQuote() {
+  return quotesData.quotes[Math.floor(Math.random() * quotesData.quotes.length)];
+}
+
+function getQuote() {
+	let ind = getRandomNumber();
+  	let str = "url('resources/daily-inspiration/" + ind + ".jpg')";
+
+
+  	let randomQuote = getRandomQuote();
+  
+  	currentQuote = randomQuote.quote;
+  	currentAuthor = randomQuote.author;
+
+  	$("#quoteContent").text(currentQuote);
+  	$("#quoteAuthor").text(currentAuthor);
+
+  	$(".imageBackground").css("background-image", str);
+  	$("#imageColorBox").css("background-color", colors[ind-1]);
+  	$("#imageColorBox2").css("background-color", colors[ind-1]);
+  	$("#newQuote").css("color", colors[ind-1]);
+}
+
+
+$(document).ready( function() {
+  	getQuotes().then(() => {
+  		getQuote();
+  	});
+  	$('#newQuote').on('click', getQuote);
+
+  	
+
+//  	$("quoteContent").text(currentQuote.quote);
+});
+
+
+
+</script>
+
+	<nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="#">Knowledge everyday</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item active">
+                    <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+                </li> 
+                <li class="nav-item active">
+                    <a class="nav-link" href="#">Educational Videos</a>
+                </li> 
+                <li class="nav-item active">
+                    <a class="nav-link" href="personal_development.html">Personal Development</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="daily_inspiration.html">Daily Inspiration</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="#">Computer Programming</a>
+                </li>            
+            </ul>
+          </div>
+    </nav>
+
+    <header class="imageBackground">
+        <div class="container h-100">
+            <div class="row h-100 align-items-center">
+                <div class="col-12 text-center" style="left: 50%; max-width: 400px; margin-left: -200px; position: absolute; color:white; background-color:red; padding-top: 30px; padding-bottom: 20px;" id="imageColorBox">
+                	<img src="resources\white-quote.svg" style="width: 25px; fill: white"; >
+                    <span class="lead" id="quoteContent"></span>
+                    <br>
+                    <p>- <span class="text-left" id="quoteAuthor"></span></p>
+
+                    <button style="margin-top: 20px;" class="btn btn-default" id="newQuote">New Quote</button>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <section  class="text-center" id="imageColorBox2">
+		<h2 style="color: white; padding-top: 50px;">Knowledge Everyday</h2>
+
+		<p class="lead" style="color: white; margin:0px">We combine all the educational resources you need for free.
+		<p class="lead" style="margin:0px; color:white;">Contact us with your ideas and suggestions.</p>
+
+		<div style="padding-bottom: 50px;">
+			<button class="btn btn-light" style="border-radius: 8px; margin-top: 10px; padding-bottom: 9px;"><img src="resources/mail.svg" style="width: 20px;"></button>
+		</div>
+	</section>
+
+	<footer style="background-color: white;" class="text-center">
+		<p style="margin: 0px 0px 0px 0px; padding-top: 10px;">Knowledge Everyday - Open Source Educational Agregator with numerous resources in different fields.</p>
+		<p style="margin: 0px 0px 0px 0px; padding-bottom: 10px;"><em>We don't own any of the content being shown on our website, we are just collecting it on one place to make it easier for access.</em></p>
+		<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+	</footer>
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</body>
+</html>
