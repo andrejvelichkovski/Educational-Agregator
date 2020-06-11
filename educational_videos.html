@@ -6,8 +6,286 @@
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 	<title>Educational Videos - Knowledge Everyday</title>
+
+	<style>
+		#categoryLink {
+			text-decoration: none;
+			animation-fill-mode: forwards;;
+			color:black;
+		}
+
+		#categoryLink:hover {
+			animation-name: categoryHover;
+			animation-duration: 500ms;
+		}
+
+		@keyframes categoryHover {
+			100% {
+				color: #4f98ca;
+			}
+		}
+
+
+		#categories h3{
+			margin: 7px 15px 7px 15px;
+		}
+
+		#videogrey1  {
+			background-color: #dddddd;
+			margin: 0px;
+			padding: 30px 0px 30px 0px;
+			display: flex;
+			justify-content: center;
+		}
+
+		#videogrey2  {
+			background-color: #dddddd;
+			margin: 0px;
+			padding: 30px 0px 30px 0px;
+			display: flex;
+			justify-content: center;
+		}
+
+		#videowhite1  {
+			background-color: white;
+			margin: 0px;
+			padding: 30px 0px 30px 0px;
+			display: flex;
+			justify-content: center;
+		}
+
+		#videowhite2 {
+			background-color: white;
+			margin: 0px;
+			padding: 30px 0px 30px 0px;
+			display: flex;
+			justify-content: center;
+		}
+
+		#categoryDescriptionGrey {
+			margin-right: 30px;
+			max-width: 400px;
+		}
+
+		#categoryDescriptionWhite {
+			margin-left: 30px;
+			max-width: 400px;
+		}
+
+		#channels img {
+			width: 65px;
+			margin-left: 9px;
+			margin-right: 9px;
+		}
+
+		#channels {
+			margin-bottom: 20px;
+		}
+
+		#categories {
+			margin-bottom: 35px;
+		}
+		h2 {
+    		color: #4f98ca;
+    	}
+    	#description {
+    		margin: 50px 170px 0px 170px;
+    	}
+
+    	#description p {
+    		margin-top: 15px;
+    	}
+
+    	@media(max-width: 950px) {
+    		#description {
+    			margin: 30px 20px 0px 20px;
+    		}
+    		#categories {
+    			flex-direction: column;
+    		}
+    		#videogrey1 {
+    			flex-direction: column;
+    			align-items: center;
+    		}
+    		#videogrey2 {
+    			flex-direction: column;
+    			align-items: center;
+    		}
+    		#videowhite1 {
+    			flex-direction: column-reverse;
+    			align-items: center;
+    		}
+    		#videowhite2 {
+    			flex-direction: column-reverse;
+    			align-items: center;
+    		}
+    	}
+	</style>
 </head>
 <body>
+
+<script type="text/javascript">
+
+const scienceChannels = ["UCUHW94eEFW7hkUMVaZz4eDg", "UCeiYXex_fwgYDonaTcSIk6w", "UCHnyfMqiRRG1u-2MsSQLbXA", "UC6nSFpj9HTCZ5t-N3Rm3-HA", "UC6107grRI4m0o2-emgoDnAA", "UCxqAWLTk1CmBvZFPzeZMd9A"];
+
+const techChannels = ["UC0vBXGSyV14uvJ4hECDOl0Q", "UCVLZmDKeT-mV4H3ToYXIFYg"];
+
+const mathChannels = ["UCoxcjq-8xIDTYp3uz647V5A", "UCHnj59g7jezwTy5GeL8EA_g", "UConVfxXodg78Tzh5nNu85Ew", "UCYO_jab_esuFRV4b17AJtAw"];
+
+const travelChannels = ["UCmmPgObSUPw1HL2lq6H4ffA", "UC_DmOS_FBvO4H27U7X0OtRg", "UCckFCPnDSf9mMCkdEq7tTcQ", "UCs5GnuB9y1pSWswQPLF2kXA"];
+
+function getVideoScience() {
+    return new Promise((resolve, reject) => {
+    	var channelIdOrder = Math.floor(Math.random() * scienceChannels.length);
+
+        var channelId = scienceChannels[channelIdOrder];
+        var apiKey = "AIzaSyBp2Moe3yd22242oT2U51mjiiE3QCwp4KU";
+        var videosUrl = "https://www.googleapis.com/youtube/v3/search?order=date&part=snippet&channelId=" + channelId + "&maxResults=50&key=" + apiKey;
+      	var ajax = new XMLHttpRequest();
+        ajax.open("GET", videosUrl, true);
+        ajax.send();
+
+        ajax.onreadystatechange = function() {
+            if(this.readyState == 4 && this.status == 200) {
+                var json = JSON.parse(this.responseText); 
+                var videos = json.items;
+
+              	var randomNumber = Math.floor(Math.random() * (videos.length + 1));
+              	var randomVideo = videos[randomNumber];
+
+                var videoId = randomVideo.id.videoId;
+                var youtubeUrl = "https://www.youtube.com/embed/" + videoId;
+
+                resolve(youtubeUrl);
+          	}
+        }
+    });
+}
+
+function getVideoTech() {
+    return new Promise((resolve, reject) => {
+    	var channelIdOrder = Math.floor(Math.random() * techChannels.length);
+
+        var channelId = techChannels[channelIdOrder];
+        var apiKey = "AIzaSyBp2Moe3yd22242oT2U51mjiiE3QCwp4KU";
+        var videosUrl = "https://www.googleapis.com/youtube/v3/search?order=date&part=snippet&channelId=" + channelId + "&maxResults=50&key=" + apiKey;
+      	var ajax = new XMLHttpRequest();
+        ajax.open("GET", videosUrl, true);
+        ajax.send();
+
+        ajax.onreadystatechange = function() {
+            if(this.readyState == 4 && this.status == 200) {
+                var json = JSON.parse(this.responseText); 
+                var videos = json.items;
+
+              	var randomNumber = Math.floor(Math.random() * (videos.length + 1));
+              	var randomVideo = videos[randomNumber];
+
+                var videoId = randomVideo.id.videoId;
+                var youtubeUrl = "https://www.youtube.com/embed/" + videoId;
+
+                resolve(youtubeUrl);
+          	}
+        }
+    });
+}
+
+function getVideoMath() {
+    return new Promise((resolve, reject) => {
+    	var channelIdOrder = Math.floor(Math.random() * mathChannels.length);
+
+        var channelId = mathChannels[channelIdOrder];
+        var apiKey = "AIzaSyBp2Moe3yd22242oT2U51mjiiE3QCwp4KU";
+        var videosUrl = "https://www.googleapis.com/youtube/v3/search?order=date&part=snippet&channelId=" + channelId + "&maxResults=50&key=" + apiKey;
+      	var ajax = new XMLHttpRequest();
+        ajax.open("GET", videosUrl, true);
+        ajax.send();
+
+        ajax.onreadystatechange = function() {
+            if(this.readyState == 4 && this.status == 200) {
+                var json = JSON.parse(this.responseText); 
+                var videos = json.items;
+
+              	var randomNumber = Math.floor(Math.random() * (videos.length + 1));
+              	var randomVideo = videos[randomNumber];
+
+                var videoId = randomVideo.id.videoId;
+                var youtubeUrl = "https://www.youtube.com/embed/" + videoId;
+
+                resolve(youtubeUrl);
+          	}
+        }
+    });
+}
+
+function getVideoTravel() {
+    return new Promise((resolve, reject) => {
+    	var channelIdOrder = Math.floor(Math.random() * travelChannels.length);
+
+        var channelId = travelChannels[channelIdOrder];
+        var apiKey = "AIzaSyBp2Moe3yd22242oT2U51mjiiE3QCwp4KU";
+        var videosUrl = "https://www.googleapis.com/youtube/v3/search?order=date&part=snippet&channelId=" + channelId + "&maxResults=50&key=" + apiKey;
+      	var ajax = new XMLHttpRequest();
+        ajax.open("GET", videosUrl, true);
+        ajax.send();
+
+        ajax.onreadystatechange = function() {
+            if(this.readyState == 4 && this.status == 200) {
+                var json = JSON.parse(this.responseText); 
+                var videos = json.items;
+
+              	var randomNumber = Math.floor(Math.random() * (videos.length + 1));
+              	var randomVideo = videos[randomNumber];
+
+                var videoId = randomVideo.id.videoId;
+                var youtubeUrl = "https://www.youtube.com/embed/" + videoId;
+
+                resolve(youtubeUrl);
+          	}
+        }
+    });
+}
+
+$(document).ready(function(){
+  	getVideoScience().then(result => {
+    	$("#videoScience").prop("src", result);
+  	});
+
+  	getVideoTech().then(result => {
+    	$("#videoTech").prop("src", result);
+  	});
+
+  	getVideoMath().then(result => {
+    	$("#videoMath").prop("src", result);
+  	});
+
+  	getVideoTravel().then(result => {
+    	$("#videoTravel").prop("src", result);
+  	});
+
+    $("#buttonNewVideoScience").click(function() {
+        getVideoScience().then(result => {
+            $("#videoScience").prop("src", result);
+        });
+    });
+    $("#buttonNewVideoTech").click(function() {
+        getVideoScience().then(result => {
+            $("#videoTech").prop("src", result);
+        });
+    });
+    $("#buttonNewVideoMath").click(function() {
+        getVideoScience().then(result => {
+            $("#videoMath").prop("src", result);
+        });
+    });
+    $("#buttonNewVideoTravel").click(function() {
+        getVideoScience().then(result => {
+            $("#videoTravel").prop("src", result);
+        });
+    });
+});
+</script>
+
 	<nav class="navbar navbar-expand-lg navbar-light bg-light">
         <a class="navbar-brand" href="#">Knowledge everyday</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -37,11 +315,87 @@
 
     <div id="description">
     	<h2 class="text-center">Watch high quality content</h1>
-    	<p class="lead text-center">Our website links you to the best educational channels available on YouTube. Some of the channels you can dive deeper into:</p>
+    	<p class="lead text-center">Our website links you to the best educational channels available on YouTube. We divided our content in four  categories:</p>
 
-    	<div id="blogs">
-    		
+    	<div id="categories" class="d-flex justify-content-center align-items-center">
+    		<h3><a href="#videogrey1" id="categoryLink">Science</a></h3>
+    		<h3><a href="#videowhite1" id="categoryLink">Technology</a></h3>
+    		<h3><a href="#videogrey2" id="categoryLink">Mathematics</a></h3>
+    		<h3><a href="#videowhite2" id="categoryLink">Travel adventures</a></h3>
     	</div>
+	</div>
+
+	<div id="videogrey1" class="text-center">
+		<div id="categoryDescriptionGrey">
+			<h2>Science</h2>
+			<p class="lead">Some of the channels in this category we link you to: </p>
+
+			<div id="channels">
+				<img src="resources/educational-videos/science_channel1.jpg">
+				<img src="resources/educational-videos/science_channel2.jpg">
+				<img src="resources/educational-videos/science_channel3.jpg">
+			</div>
+
+			<button id="buttonNewVideoScience" class="btn btn-default" style="min-width: 160px; margin-bottom: 15px;">Get new video</button>
+		</div>
+		<div>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/-bqbFbxjBig" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen id="videoScience"></iframe>
+		</div>
+	</div>
+
+	
+	<div id="videowhite1" class="text-center">
+		<div>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/-bqbFbxjBig" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen id="videoTech"></iframe>
+		</div>
+		<div id="categoryDescriptionWhite">
+			<h2>Technology</h2>
+			<p class="lead">The best educational content on the technology topic. Provided by: </p>
+
+			<div id="channels">
+				<img src="resources/educational-videos/science_channel1.jpg">
+				<img src="resources/educational-videos/science_channel2.jpg">
+				<img src="resources/educational-videos/science_channel3.jpg">
+			</div>
+
+			<button id="buttonNewVideoTech" class="btn btn-default" style="min-width: 160px; margin-bottom: 15px;">Get new video</button>
+		</div>
+	</div>
+
+	<div id="videogrey2" class="text-center">
+		<div id="categoryDescriptionGrey">
+			<h2>Mathematics</h2>
+			<p class="lead">Discover the beauty of the world around us by watching videos. Some of the people that create the content: </p>
+
+			<div id="channels">
+				<img src="resources/educational-videos/science_channel1.jpg">
+				<img src="resources/educational-videos/science_channel2.jpg">
+				<img src="resources/educational-videos/science_channel3.jpg">
+			</div>
+
+			<button id="buttonNewVideoMath" class="btn btn-default" style="min-width: 160px; margin-bottom: 15px;">Get new video</button>
+		</div>
+		<div>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/-bqbFbxjBig" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen id="videoMath"></iframe>
+		</div>
+	</div>
+
+	<div id="videowhite2" class="text-center">
+		<div id="video">
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/-bqbFbxjBig" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen id="videoTravel"></iframe>
+		</div>
+		<div id="categoryDescriptionWhite">
+			<h2>Travel adventures</h2>
+			<p class="lead">We all love to travel! We compiled a list of channels providing great content in this category. Some of the providers: </p>
+
+			<div id="channels">
+				<img src="resources/educational-videos/science_channel1.jpg">
+				<img src="resources/educational-videos/science_channel2.jpg">
+				<img src="resources/educational-videos/science_channel3.jpg">
+			</div>
+
+			<button id="buttonNewVideoTravel" class="btn btn-default" style="min-width: 160px; margin-bottom: 15px;">Get new video</button>
+		</div>
 	</div>
 
     <section style="background-color: #4f98ca" class="text-center">
@@ -54,6 +408,8 @@
 			<button class="btn btn-light" style="border-radius: 8px; margin-top: 10px; padding-bottom: 9px;"><img src="resources/mail.svg" style="width: 20px;"></button>
 		</div>
 	</section>
+
+
 
 	<footer style="background-color: white;" class="text-center">
 		<p style="margin: 0px 0px 0px 0px; padding-top: 10px;">Knowledge Everyday - Open Source Educational Agregator with numerous resources in different fields.</p>
