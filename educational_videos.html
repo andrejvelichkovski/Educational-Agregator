@@ -269,17 +269,17 @@ $(document).ready(function(){
         });
     });
     $("#buttonNewVideoTech").click(function() {
-        getVideoScience().then(result => {
+        getVideoTech().then(result => {
             $("#videoTech").prop("src", result);
         });
     });
     $("#buttonNewVideoMath").click(function() {
-        getVideoScience().then(result => {
+        getVideoMath().then(result => {
             $("#videoMath").prop("src", result);
         });
     });
     $("#buttonNewVideoTravel").click(function() {
-        getVideoScience().then(result => {
+        getVideoTravel().then(result => {
             $("#videoTravel").prop("src", result);
         });
     });
@@ -305,10 +305,7 @@ $(document).ready(function(){
                 </li>
                 <li class="nav-item active">
                     <a class="nav-link" href="daily_inspiration.html">Daily Inspiration</a>
-                </li>
-                <li class="nav-item active">
-                    <a class="nav-link" href="#">Computer Programming</a>
-                </li>            
+                </li>           
             </ul>
           </div>
     </nav>

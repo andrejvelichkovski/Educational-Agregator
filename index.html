@@ -83,63 +83,6 @@
 </head>
 <body>
 
-
-<script type="text/javascript">
-
-function getVideo() {
-    return new Promise((resolve, reject) => {
-        var channelId = "UCeiYXex_fwgYDonaTcSIk6w";
-        var apiKey = "AIzaSyBp2Moe3yd22242oT2U51mjiiE3QCwp4KU";
-        var videosUrl = "https://www.googleapis.com/youtube/v3/search?order=date&part=snippet&channelId=" + channelId + "&maxResults=50&key=" + apiKey;
-      var ajax = new XMLHttpRequest();
-        ajax.open("GET", videosUrl, true);
-        ajax.send();
-
-        ajax.onreadystatechange = function() {
-            if(this.readyState == 4 && this.status == 200) {
-                var json = JSON.parse(this.responseText); 
-                var videos = json.items;
-
-              var randomNumber = Math.floor(Math.random() * (videos.length + 1));
-              var randomVideo = videos[randomNumber];
-
-                var videoId = randomVideo.id.videoId;
-                var videoUrl = "https://www.googleapis.com/youtube/v3/videos?id=" + videoId + "&part=snippet,contentDetails,statistics&key=" + apiKey;
-
-                var ajax = new XMLHttpRequest();
-                ajax.open("GET", videoUrl, true);
-                ajax.send();
-
-                ajax.onreadystatechange = function() {
-                  if(this.readyState == 4 && this.status == 200) {
-
-                        var json = JSON.parse(this.responseText);
-                        var singleVideo = json.items[0].id;
-                        var youtubeUrl = "https://www.youtube.com/embed/" + singleVideo;
-                      resolve(youtubeUrl);
-                  }
-              };
-          }
-        }
-    });
-}
-
-
-$(document).ready(function(){
-  getVideo().then(result => {
-    $("#video").prop("src", result);
-  });
-
-    $("#buttonNewVideo").click(function() {
-        getVideo().then(result => {
-            $("#video").prop("src", result);
-        });
-    });
-});
-
-</script>
-
-    
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <a class="navbar-brand" href="#">Knowledge everyday</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -159,10 +102,7 @@ $(document).ready(function(){
                 </li>
                 <li class="nav-item active">
                     <a class="nav-link" href="daily_inspiration.html">Daily Inspiration</a>
-                </li>
-                <li class="nav-item active">
-                    <a class="nav-link" href="#">Computer Programming</a>
-                </li>            
+                </li>       
             </ul>
           </div>
     </nav>
@@ -186,7 +126,7 @@ $(document).ready(function(){
     <div id="top-block" style="padding-bottom: 35px;">
         <h3 class="text-center" style="padding-top: 35px; margin-bottom: 35px;">What our website offers:</h3>
 
-        <div id="features">
+        <div id="features" class="text-center">
             <div id="block">
                 <div id="block-title">
 
@@ -199,7 +139,7 @@ $(document).ready(function(){
 
                 <div id="block-description">
                     <p>
-                        Collection of educational videos and random video generator which will help you discover new topics everytime you open our website. In case you want to dive deeper, you can always generate new videos by using the button next to the video. Visit the Educational Videos page to start learning right now.
+                        Collection of educational videos which will help you discover new topics everytime you open our website.
                     </p>
                 </div>
             </div>
@@ -216,7 +156,7 @@ $(document).ready(function(){
 
                 <div id="block-description">
                     <p>
-                        Skills as communication, team work and time management have never been more important. Visit our Personal Development page to start working on improving your soft skills today.
+                        Skills as communication, team work and time management have never been more important.
                     </p>
                 </div>
             </div>
@@ -224,16 +164,16 @@ $(document).ready(function(){
             <div id="block">
                 <div id="block-title">
 
-                    <img src="resources/computer_programming.svg">
+                    <img src="resources/inspiration.svg">
 
                     <h1>
-                        Computer Programming
+                        Daily Inspiration
                     </h1>
                 </div>
 
                 <div id="block-description">
                     <p>
-                        As young computer science enthusiasts, we actively share tips and tricks on improving your computer science skills in the Computer Programming part of our website.
+                        Get inspired daily by reading thoughtful quotes.
                     </p>
                 </div>
             </div>

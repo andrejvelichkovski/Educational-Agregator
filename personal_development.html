@@ -53,9 +53,16 @@
 	     color: inherit;
 	     text-decoration: none;
 	    }
+      a:hover {
+        text-decoration: none;
+        color: inherit;
+        
+      }
+      
+
 	     ul {
 	         list-style: none;
-	    }
+      }
 	     .blog {
 	         margin: 3rem 1rem;
 	         display: flex;
@@ -95,9 +102,21 @@
 	         -moz-box-shadow: 9px 9px 20px 0px rgba(0, 0, 0, .4);
 	         box-shadow: 9px 9px 20px 0px rgba(0, 0, 0, .4);
 	    }
-	     .blog__topImg {
-	         max-width: 100%;
-	    }
+      .blog__post:hover {
+        animation-name: hoverPost;
+        animation-duration: 400ms;
+        animation-fill-mode: forwards;
+      }
+
+      @keyframes hoverPost {
+        100% {
+          background-color: #dddddd;
+        }
+      }
+	   .blog__topImg {
+	         width: 100%;
+           max-height: 300px;
+      }
 	     .blog__content {
 	         padding: 0.8 ßrem;
 	    }
@@ -106,7 +125,7 @@
 	         font-weight: 300;
 	    }
 	     .blog__title {
-	         margin-top: 0;
+	         margin-top: 10px;
 	         font-size: 1.4rem;
 	    }
 	     .blog__intro {
@@ -142,6 +161,14 @@
 	         border: 1px solid lightblue;
 	         background-color: lightblue;
 	    }
+      .btn-primary {
+        background-color: #4f98ca;
+        border: 0px;
+      }
+
+      .btn-primary:hover {
+        background-color: rgb(65, 139, 189);
+      }
 
 	    #old-resources {
 	    	background-color: #dddddd;
@@ -175,6 +202,11 @@
     			width: 80%;
     		}
     	}
+
+      #recommendedLink:hover {
+        text-decoration: none;
+        color: #4f98ca;
+      }
     </style>
 </head>
 
@@ -182,8 +214,12 @@
 
 <!-- JS to get the posts -->
 <script type="text/javascript">
-    fetch('https://api.rss2json.com/v1/api.json?rss_url=https://forge.medium.com/feed')
-   .then((res) => res.json())
+
+let allPosts = [];
+
+function generatePostsFeed(apiLink) {
+  return fetch('https://api.rss2json.com/v1/api.json?rss_url=' + apiLink)
+  .then((res) => res.json())
    .then((data) => {
       // Filter for acctual posts. Comments don't have categories, therefore can filter for items with categories bigger than 0
       const res = data.items //This is an array with the content. No feed, no info about author etc..
@@ -204,22 +240,22 @@
 
       // Put things in right spots of markup
       
-      const numberPosts = 3 ;
+      const numberPosts = 10;
       let nwPosts = [];
 
       for(let i=0;i<Math.min(posts.length, numberPosts);i++) {
         nwPosts.push(posts[i]);
       }
 
-      let output = '';
+      let currPosts = [ ];
       nwPosts.forEach((item) => {
-         output += `
+         let curr = `
          <li class="blog__post">
             <a href="${item.link}" target="__blank">
                <img src="${item.thumbnail}" class="blog__topImg"></img>
                <div class="blog__content">
                   <div class="blog_preview">
-                     <h2 class="blog__title">${item.title}</h2>
+                     <h2 class="blog__title text-center">${item.title}</h2>
                      <p class="blog__intro">${'...' + shortenText(toText(item.content),60, 300)+ '...'}</p>
                   </div>
                   <hr>
@@ -230,10 +266,74 @@
                </div>
             <a/>
          </li>`
+         currPosts.push(curr);
 
       })
-      document.querySelector('.blog__slider').innerHTML = output
+      return currPosts;
+
+
+     // document.querySelector('.blog__slider').innerHTML = output
 })
+
+}
+
+const apiLinks = ['https://forge.medium.com/feed', 'https://elemental.medium.com/feed', 'https://medium.com/feed/mind-cafe', 'https://medium.com/feed/the-ascent'];
+
+const postNumber = 3;
+let all_items = [];
+
+function getRandomNumbers() {
+  let a = [0, 0, 0];
+
+  while(a[0] == a[1] || a[0] == a[2] || a[1] == a[2]) {
+    a[0] = Math.floor(Math.random() * all_items.length);
+    a[1] = Math.floor(Math.random() * all_items.length);
+    a[2] = Math.floor(Math.random() * all_items.length);
+  }
+  return a;
+}
+
+function generatePosts() {
+  var promises = []
+  for(let i=0;i<apiLinks.length;i++) {
+    promises.push(generatePostsFeed(apiLinks[i]))
+  }
+
+  Promise.all(promises).then(items => {
+    items.forEach(item => {
+        all_items.push(...item)
+    })
+      
+    let output = '';
+    let arr = getRandomNumbers();
+    for(let i=0;i<postNumber;i++) {
+      let ind = arr[i];
+
+      output += all_items[ind];
+    }
+
+    document.querySelector('.blog__slider').innerHTML = output
+  });
+}
+
+generatePosts();
+
+function getNwPosts() {
+  let output = '';
+  let arr = getRandomNumbers();
+  for(let i=0;i<postNumber;i++) {
+      let ind = arr[i];
+
+      output += all_items[ind];
+    }
+
+    document.querySelector('.blog__slider').innerHTML = output
+}
+
+$(document).ready( function() {
+  $("#getNewPosts").on('click', getNwPosts);
+});
+
 </script>
 
 	<!-- Menu -->
@@ -256,10 +356,7 @@
                 </li>
                 <li class="nav-item active">
                     <a class="nav-link" href="daily_inspiration.html">Daily Inspiration</a>
-                </li>
-                <li class="nav-item active">
-                    <a class="nav-link" href="#">Computer Programming</a>
-                </li>            
+                </li>        
             </ul>
           </div>
     </nav>
@@ -293,18 +390,18 @@
 	    	Posts go here
 	  	</ul>
 
-		<ul class="blog__counter">
-	    	<li class="blog__counterItem blog__counterItem-active"></li>
-	    	<li class="blog__counterItem"></li>
-	    	<li class="blog__counterItem"></li>
-	  	</ul>
+      <button class="btn btn-primary" style="font-size: 18px;width: 200px; height: 50px;" id="getNewPosts">Get new readings</button>
 	</section>
 
-	<section id="old-resources">
-		<h2 class="text-center">Timeless resources on improving your soft skills</h1>
-		<p class="text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In placerat odio libero, ac volutpat arcu imperdiet facilisis. Nulla tempor turpis lacinia nibh bibendum facilisis. Phasellus dapibus, ante at faucibus sollicitudin, purus lectus aliquam nisi, accumsan varius lacus sapien id purus. Sed non dapibus leo. Duis pulvinar eget tellus porta finibus. Proin ornare sit amet neque aliquet gravida. Etiam vitae orci pulvinar, scelerisque lacus eu, rutrum ipsum. Aenean diam velit, egestas id nulla eget, mollis ornare mi. Fusce vel nunc eget nisi placerat aliquam.</p>
+	<section id="old-resources" class="text-center lead">
+		<h2>Recommended readings on this topic</h1>
+		<p>The section above keeps you updated with the newest publications on improving yourself. However, we also wanted to share our favourite resources, readings and articles.</p>
 
-		<p class="text-center" style="margin-bottom: 0px; padding-bottom: 50px;">Fusce lacinia volutpat nunc sit amet vulputate. Donec eget leo imperdiet, mattis neque et, blandit risus. Sed metus sem, dapibus non tempus non, iaculis quis elit. Maecenas sed consequat arcu. Quisque gravida, purus quis sodales vestibulum, lacus nisi dignissim quam, id euismod neque dolor eget turpis. Pellentesque aliquam eros eget pretium vehicula. Ut varius nisl est, nec varius orci sollicitudin at. Morbi vulputate leo sed metus luctus, quis tristique nisl pulvinar. Cras consequat bibendum eros. Ut pellentesque mauris nunc, eu consectetur quam vehicula vitae.</p>
+		<p style="margin-bottom: 0px;">1. <a href="https://byrslf.co/how-to-be-happy-be8b2dc0677?gi=8ee7c07ae" id="recommendedLink" target="__blank">How to be happy</a> by <a href="https://medium.com/@kidbombay" id="recommendedLink" target="__blank">Ketan Anjaria</a></p>
+    <p> 2. <a href="https://medium.com/swlh/how-to-manage-your-time-and-learn-new-things-every-day-9745538b60cb" id="recommendedLink" target="__blank">How to manage your time and learn new things every day</a> by <a href="https://medium.com/@ToddBrison" id="recommendedLink" target="__blank">Todd Brison</a>.
+    </p>
+    <p style="margin-bottom: 0px; padding-bottom: 45px;">
+  3. Discover and read new things every day as much as you can.</p>
 	</section>
 
 	<section style="background-color: #4f98ca" class="text-center">
