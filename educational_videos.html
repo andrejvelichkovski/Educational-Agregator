@@ -126,6 +126,8 @@
 
 <script type="text/javascript">
 
+const apiKey = "AIzaSyBp2Moe3yd22242oT2U51mjiiE3QCwp4KU";
+
 const scienceChannels = ["UCUHW94eEFW7hkUMVaZz4eDg", "UCeiYXex_fwgYDonaTcSIk6w", "UCHnyfMqiRRG1u-2MsSQLbXA", "UC6nSFpj9HTCZ5t-N3Rm3-HA", "UC6107grRI4m0o2-emgoDnAA", "UCxqAWLTk1CmBvZFPzeZMd9A"];
 
 const techChannels = ["UC0vBXGSyV14uvJ4hECDOl0Q", "UCVLZmDKeT-mV4H3ToYXIFYg"];
@@ -139,7 +141,7 @@ function getVideoScience() {
     	var channelIdOrder = Math.floor(Math.random() * scienceChannels.length);
 
         var channelId = scienceChannels[channelIdOrder];
-        var apiKey = "AIzaSyBp2Moe3yd22242oT2U51mjiiE3QCwp4KU";
+       // var apiKey = "AIzaSyBp2Moe3yd22242oT2U51mjiiE3QCwp4KU";
         var videosUrl = "https://www.googleapis.com/youtube/v3/search?order=date&part=snippet&channelId=" + channelId + "&maxResults=50&key=" + apiKey;
       	var ajax = new XMLHttpRequest();
         ajax.open("GET", videosUrl, true);
@@ -167,7 +169,7 @@ function getVideoTech() {
     	var channelIdOrder = Math.floor(Math.random() * techChannels.length);
 
         var channelId = techChannels[channelIdOrder];
-        var apiKey = "AIzaSyBp2Moe3yd22242oT2U51mjiiE3QCwp4KU";
+       // var apiKey = "AIzaSyBp2Moe3yd22242oT2U51mjiiE3QCwp4KU";
         var videosUrl = "https://www.googleapis.com/youtube/v3/search?order=date&part=snippet&channelId=" + channelId + "&maxResults=50&key=" + apiKey;
       	var ajax = new XMLHttpRequest();
         ajax.open("GET", videosUrl, true);
@@ -195,7 +197,7 @@ function getVideoMath() {
     	var channelIdOrder = Math.floor(Math.random() * mathChannels.length);
 
         var channelId = mathChannels[channelIdOrder];
-        var apiKey = "AIzaSyBp2Moe3yd22242oT2U51mjiiE3QCwp4KU";
+       // var apiKey = "AIzaSyBp2Moe3yd22242oT2U51mjiiE3QCwp4KU";
         var videosUrl = "https://www.googleapis.com/youtube/v3/search?order=date&part=snippet&channelId=" + channelId + "&maxResults=50&key=" + apiKey;
       	var ajax = new XMLHttpRequest();
         ajax.open("GET", videosUrl, true);
@@ -223,7 +225,7 @@ function getVideoTravel() {
     	var channelIdOrder = Math.floor(Math.random() * travelChannels.length);
 
         var channelId = travelChannels[channelIdOrder];
-        var apiKey = "AIzaSyBp2Moe3yd22242oT2U51mjiiE3QCwp4KU";
+        //var apiKey = "AIzaSyBp2Moe3yd22242oT2U51mjiiE3QCwp4KU";
         var videosUrl = "https://www.googleapis.com/youtube/v3/search?order=date&part=snippet&channelId=" + channelId + "&maxResults=50&key=" + apiKey;
       	var ajax = new XMLHttpRequest();
         ajax.open("GET", videosUrl, true);
