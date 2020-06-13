@@ -10,6 +10,7 @@
 	<title>Educational Videos - Knowledge Everyday</title>
 
 	<style>
+
 		#categoryLink {
 			text-decoration: none;
 			animation-fill-mode: forwards;;
@@ -121,7 +122,16 @@
     			flex-direction: column-reverse;
     			align-items: center;
     		}
+            #categoryDescriptionGrey {
+                margin-right: 0px;
+            }
+            #categoryDescriptionWhite {
+                margin-left: 0px;
+            }
     	}
+        .video {
+            max-width: 100vw;
+        }
 	</style>
 </head>
 <body>
@@ -340,14 +350,14 @@ $(document).ready(function(){
 			<button id="buttonNewVideoScience" class="btn btn-default" style="min-width: 160px; margin-bottom: 15px;">Get new video</button>
 		</div>
 		<div>
-			<iframe width="560" height="315" src="https://www.youtube.com/embed/-bqbFbxjBig" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen id="videoScience"></iframe>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/-bqbFbxjBig" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen id="videoScience" class="video"></iframe>
 		</div>
 	</div>
 
 	
 	<div id="videowhite1" class="text-center">
 		<div>
-			<iframe width="560" height="315" src="https://www.youtube.com/embed/-bqbFbxjBig" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen id="videoTech"></iframe>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/-bqbFbxjBig" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen id="videoTech" class="video"></iframe>
 		</div>
 		<div id="categoryDescriptionWhite">
 			<h2>Technology</h2>
@@ -377,13 +387,13 @@ $(document).ready(function(){
 			<button id="buttonNewVideoMath" class="btn btn-default" style="min-width: 160px; margin-bottom: 15px;">Get new video</button>
 		</div>
 		<div>
-			<iframe width="560" height="315" src="https://www.youtube.com/embed/-bqbFbxjBig" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen id="videoMath"></iframe>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/-bqbFbxjBig" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen id="videoMath" class="video"></iframe>
 		</div>
 	</div>
 
 	<div id="videowhite2" class="text-center">
 		<div id="video">
-			<iframe width="560" height="315" src="https://www.youtube.com/embed/-bqbFbxjBig" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen id="videoTravel"></iframe>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/-bqbFbxjBig" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen id="videoTravel" class="video"></iframe>
 		</div>
 		<div id="categoryDescriptionWhite">
 			<h2>Travel adventures</h2>
