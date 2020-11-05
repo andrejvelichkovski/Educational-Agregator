@@ -1,0 +1,1637 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "bBItXCqA-g45ZiCgbDxyCTxIjjY",
+  "regionCode": "MK",
+  "pageInfo": {
+    "totalResults": 50,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AUm_c22aPes_kuZRogGS0Ebw-34",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aYIbC25GNKs"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-30T13:00:00Z",
+        "channelId": "UCxqAWLTk1CmBvZFPzeZMd9A",
+        "title": "The Speed of Light is NOT Fundamental. But THIS is.",
+        "description": "This is my journey to find all of the fundamental constants of nature which took some surprising turns. Check out Brilliant who sponsored part of this video: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aYIbC25GNKs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aYIbC25GNKs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aYIbC25GNKs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DoS - Domain of Science",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-30T13:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YiEiOYuYtojiceopTRXohvoKYhc",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLOYRlicwLG3S-GpCtGdiVm_7U0c6YR1gj"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-15T20:46:05Z",
+        "channelId": "UCxqAWLTk1CmBvZFPzeZMd9A",
+        "title": "Ambience For Writing and Studying",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NPqUWeRTyWY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NPqUWeRTyWY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NPqUWeRTyWY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DoS - Domain of Science",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-15T20:46:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kVNoS2zYBr8Bqr_FSggBwge4800",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "crWBFuUW6kI"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-06T13:00:16Z",
+        "channelId": "UCxqAWLTk1CmBvZFPzeZMd9A",
+        "title": "How Atomic Spectroscopy Reveals the Secrets of Space",
+        "description": "Arguably the most likely way we will first discover alien life on another planet will be using the power of atomic spectroscopy. You can grab the Map of Quantum ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/crWBFuUW6kI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/crWBFuUW6kI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/crWBFuUW6kI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DoS - Domain of Science",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-06T13:00:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gBt-gWOSnVRZ6GQOnK4R-ooGOgQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gAFAj3pzvAA"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-01T00:42:17Z",
+        "channelId": "UCxqAWLTk1CmBvZFPzeZMd9A",
+        "title": "The Map of Quantum Physics",
+        "description": "This is the Map of Quantum Physics and quantum mechanics covering everything you need to know about this field in one image. Check out this video's sponsor ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gAFAj3pzvAA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gAFAj3pzvAA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gAFAj3pzvAA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DoS - Domain of Science",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-01T00:42:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mmNYfW5AYxjn5oZIDd0-A2SPRhY",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLOYRlicwLG3RBvX1e7HNjB1IgUAufvUii"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-30T01:34:45Z",
+        "channelId": "UCxqAWLTk1CmBvZFPzeZMd9A",
+        "title": "The Map of Quantum Physics Expanded",
+        "description": "Playlist expanding on the map of quantum physics video.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gAFAj3pzvAA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gAFAj3pzvAA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gAFAj3pzvAA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DoS - Domain of Science",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-30T01:34:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QX16FP8fxG8zxnGc0VcVFWRYGF8",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLOYRlicwLG3ReQRHVpqOkCiFDyP1qj49Z"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-08T16:39:10Z",
+        "channelId": "UCxqAWLTk1CmBvZFPzeZMd9A",
+        "title": "Writing and Drawing Music",
+        "description": "A load of music I listen to to help me get into the zone. Instrumental albums up front, non-english in the middle, english vocals at the bottom. All full albums.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sb-KR9gArXk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sb-KR9gArXk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sb-KR9gArXk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DoS - Domain of Science",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-08T16:39:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WCwirMem5k2eMtlhF9oaaRksQzY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "d-86tNCSJsg"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-02T19:33:40Z",
+        "channelId": "UCxqAWLTk1CmBvZFPzeZMd9A",
+        "title": "Quantum Gravity | The Search For a Theory of Everything | 3by3",
+        "description": "Why don't we have a theory of quantum gravity yet? I explore why it has been so difficult. Check out this video's sponsor https://brilliant.org/dos Our best theories ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d-86tNCSJsg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d-86tNCSJsg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d-86tNCSJsg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DoS - Domain of Science",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-02T19:33:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cNeI2wFMOeYgC0HolWPX6w7nbWY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YJ_2ABImQeU"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-25T11:00:15Z",
+        "channelId": "UCxqAWLTk1CmBvZFPzeZMd9A",
+        "title": "Why the SpaceX NASA Mission is a Landmark For Astronaut Spaceflight",
+        "description": "Not only is this the first time a commercial company is sending people into space, it is also the first crewed mission to the International Space Station to be ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YJ_2ABImQeU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YJ_2ABImQeU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YJ_2ABImQeU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DoS - Domain of Science",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-25T11:00:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hqWnkyIGxbs52My0D8QtmNy_OJU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "754YnbOtmvA"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-17T14:00:02Z",
+        "channelId": "UCxqAWLTk1CmBvZFPzeZMd9A",
+        "title": "VIRUSES | Everything You Need To Know About Viruses | 3by3",
+        "description": "Everything you need to know about viruses in a quick visual explanation. You can get the infographic image here https://flic.kr/p/2j2LDWs At the beginning of this ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/754YnbOtmvA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/754YnbOtmvA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/754YnbOtmvA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DoS - Domain of Science",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-17T14:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "M_ZbCd9Wi6e-K8cJyZfF5tpU17M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Lbg1M0PTy1A"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-19T12:00:46Z",
+        "channelId": "UCxqAWLTk1CmBvZFPzeZMd9A",
+        "title": "Find the Volume of Any Shape Using Calculus",
+        "description": "Calculus isn't just abstract mathematics, it is an incredibly useful tool. Here I show you how to use it to derive the volumes of 3D shapes. Check out my posters ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Lbg1M0PTy1A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Lbg1M0PTy1A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Lbg1M0PTy1A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DoS - Domain of Science",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-19T12:00:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1rrDKaaICgEc7ztKIsSPHu0Lcuc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZzhCPJTKg_c"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-05T12:00:14Z",
+        "channelId": "UCxqAWLTk1CmBvZFPzeZMd9A",
+        "title": "How Many Galaxies Are Moving Away From Us Faster Than Light?",
+        "description": "Solution to the physics puzzle I posed in the last video. Check out the original video here https://youtu.be/cadNZJvfl7s I asked you if you could work out what ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZzhCPJTKg_c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZzhCPJTKg_c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZzhCPJTKg_c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DoS - Domain of Science",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-05T12:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NjWr72dC7eKVVCYEFUYsfNpT2MY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cadNZJvfl7s"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-03T12:00:21Z",
+        "channelId": "UCxqAWLTk1CmBvZFPzeZMd9A",
+        "title": "Faster Than Light Galaxies | HOW IS IT POSSIBLE?",
+        "description": "I look at the galaxies that are moving away from us faster than light because of expanding space. Check out this video's sponsor https://brilliant.org/dos Ninety ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cadNZJvfl7s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cadNZJvfl7s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cadNZJvfl7s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DoS - Domain of Science",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-03T12:00:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZNpn3wqO6NFREOUxinK19vcL-9A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "B_a0A8lfD2g"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-23T12:00:05Z",
+        "channelId": "UCxqAWLTk1CmBvZFPzeZMd9A",
+        "title": "The Easiest Way To Make Delicious Bread",
+        "description": "This is straight up a baking video, the best bread recipe I have come across for maximum flavour with minimum effort. I thought it could be helpful in the coming ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B_a0A8lfD2g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B_a0A8lfD2g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B_a0A8lfD2g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DoS - Domain of Science",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-23T12:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "d-oFYARnE1Btd9H6Eni8f1Dq0UE",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLOYRlicwLG3T3mQYvpemGPzQLu8FYtW3l"
+      },
+      "snippet": {
+        "publishedAt": "2020-02-12T01:44:10Z",
+        "channelId": "UCxqAWLTk1CmBvZFPzeZMd9A",
+        "title": "Quantum Physics Videos - Domain of Science",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gAFAj3pzvAA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gAFAj3pzvAA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gAFAj3pzvAA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DoS - Domain of Science",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-02-12T01:44:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qr-LJgCzznf5f_b3ZxsTq2oVVjw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "P1Q8tS-9hYo"
+      },
+      "snippet": {
+        "publishedAt": "2020-02-09T13:00:04Z",
+        "channelId": "UCxqAWLTk1CmBvZFPzeZMd9A",
+        "title": "The Big Bang is Probably Not What You Think It Is",
+        "description": "What do cosmologists mean when they say Big Bang? Perhaps not what we think. The Big Bang poster is available here: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P1Q8tS-9hYo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P1Q8tS-9hYo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P1Q8tS-9hYo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DoS - Domain of Science",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-02-09T13:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fIxW4odVDc6iBpgMxEAtAIxsDF4",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLOYRlicwLG3S12oRecrGNyHDGLnwb14nV"
+      },
+      "snippet": {
+        "publishedAt": "2020-02-07T21:24:19Z",
+        "channelId": "UCxqAWLTk1CmBvZFPzeZMd9A",
+        "title": "Space Videos - Domain of Science",
+        "description": "All the Domain of Science video about Space.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P1Q8tS-9hYo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P1Q8tS-9hYo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P1Q8tS-9hYo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DoS - Domain of Science",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-02-07T21:24:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YOPjwa5-I4fSPd6oABnwQu1XzHo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "054brl5PJX4"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-30T19:55:26Z",
+        "channelId": "UCxqAWLTk1CmBvZFPzeZMd9A",
+        "title": "Science Roundup 2019",
+        "description": "We look at all the top science stories for the year 2019. Here are the links to the original articles ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/054brl5PJX4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/054brl5PJX4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/054brl5PJX4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DoS - Domain of Science",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-30T19:55:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bOCBFHy8fzsOWDltIhMubu0G22A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uniGQrGLEoI"
+      },
+      "snippet": {
+        "publishedAt": "2019-11-21T21:14:35Z",
+        "channelId": "UCxqAWLTk1CmBvZFPzeZMd9A",
+        "title": "Every Kind of Thing in Space Mapped",
+        "description": "Space in infinitely big with infinite stuff in it, but buy using the power of categorisation I can fit it all into a 12 minute video. Grab the poster here: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uniGQrGLEoI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uniGQrGLEoI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uniGQrGLEoI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DoS - Domain of Science",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-11-21T21:14:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4SP_MycvM_kPLXpSuSGxy0DX8Bo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ufQni4BKtqM"
+      },
+      "snippet": {
+        "publishedAt": "2019-10-04T05:15:44Z",
+        "channelId": "UCxqAWLTk1CmBvZFPzeZMd9A",
+        "title": "LISA | The Biggest Space Mission Ever",
+        "description": "The Lisa mission will be really cool, I look at all the reasons why. Patreon: https://www.patreon.com/domainofscience DFTBA Store: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ufQni4BKtqM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ufQni4BKtqM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ufQni4BKtqM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DoS - Domain of Science",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-10-04T05:15:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tJuYe3cEtkfkKcd_LMHQjCaEhmU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hAK6ovQQqtc"
+      },
+      "snippet": {
+        "publishedAt": "2019-09-06T19:50:02Z",
+        "channelId": "UCxqAWLTk1CmBvZFPzeZMd9A",
+        "title": "The Incredible Science of CERN",
+        "description": "I was very fortunate to get an invite to a personal tour of CERN, and this is what I saw on my awesome day there. This video was produced with help from my ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hAK6ovQQqtc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hAK6ovQQqtc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hAK6ovQQqtc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DoS - Domain of Science",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-09-06T19:50:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-r-p5Sbhm-Ti1oU6N0etu7EF-Ys",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OQ5P3em-ZnI"
+      },
+      "snippet": {
+        "publishedAt": "2019-04-11T10:18:30Z",
+        "channelId": "UCxqAWLTk1CmBvZFPzeZMd9A",
+        "title": "Black Hole Super Zoom!",
+        "description": "Everyone is talking about the black hole image, which is amazing! But I've been wondering where actually is the black hole? So here it is. It is inbetween the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OQ5P3em-ZnI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OQ5P3em-ZnI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OQ5P3em-ZnI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DoS - Domain of Science",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-04-11T10:18:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4ELhqczNrlKqEWHADL1cmWM0TJA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mqofuYCz9gs"
+      },
+      "snippet": {
+        "publishedAt": "2019-04-03T15:49:19Z",
+        "channelId": "UCxqAWLTk1CmBvZFPzeZMd9A",
+        "title": "The Interpretations of Quantum Mechanics",
+        "description": "An introduction to the Interpretations of Quantum Mechanics. The first 500 people to sign up via my link will get two FREE months of Skillshare Premium: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mqofuYCz9gs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mqofuYCz9gs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mqofuYCz9gs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DoS - Domain of Science",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-04-03T15:49:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "y12e5i_JKWYNBP-Gu6_kmT2FtYY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Usu9xZfabPM"
+      },
+      "snippet": {
+        "publishedAt": "2019-02-25T16:10:25Z",
+        "channelId": "UCxqAWLTk1CmBvZFPzeZMd9A",
+        "title": "If You Don&#39;t Understand Quantum Physics, Try This!",
+        "description": "A simple and clear explanation of all the important features of quantum physics that you need to know. Check out this video's sponsor https://brilliant.org/dos I ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Usu9xZfabPM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Usu9xZfabPM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Usu9xZfabPM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DoS - Domain of Science",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-02-25T16:10:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "--7v7eZ3GsJ2Zd3b1U8peltsqBI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xfQ2si7ksTY"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-31T11:39:50Z",
+        "channelId": "UCxqAWLTk1CmBvZFPzeZMd9A",
+        "title": "The Year In Science 2018",
+        "description": "A roundup of all the biggest stories in science in 2018. Check out this video's sponsor https://brilliant.org/dos Loads of amazing progress was made in all areas ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xfQ2si7ksTY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xfQ2si7ksTY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xfQ2si7ksTY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Domain of Science",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-31T11:39:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QZVQEJCi_fEGQUKQx9LK1M-48z8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ohyai6GIRZg"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-19T20:03:38Z",
+        "channelId": "UCxqAWLTk1CmBvZFPzeZMd9A",
+        "title": "Map of Science (and everything else)",
+        "description": "The Map of Science explores what science really is. Check out this video's sponsor https://brilliant.org/dos In this video I investigate what makes a science a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ohyai6GIRZg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ohyai6GIRZg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ohyai6GIRZg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DoS - Domain of Science",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-19T20:03:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "E79-XnsxKNINJsP2EbmXnky4818",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kEry1TaN4-k"
+      },
+      "snippet": {
+        "publishedAt": "2018-07-23T15:03:48Z",
+        "channelId": "UCxqAWLTk1CmBvZFPzeZMd9A",
+        "title": "Five Quantum Computing Misconceptions",
+        "description": "I sometimes read things about quantum computing that are not quite right, I clear some up here. Check out this video's sponsor https://brilliant.org/dos Quantum ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kEry1TaN4-k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kEry1TaN4-k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kEry1TaN4-k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DoS - Domain of Science",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-07-23T15:03:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "D_rjItaPsREc0di9Gjlh1BwasWA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FbPZgOwnH4U"
+      },
+      "snippet": {
+        "publishedAt": "2018-06-16T07:18:58Z",
+        "channelId": "UCxqAWLTk1CmBvZFPzeZMd9A",
+        "title": "Movie Night With a Physicist",
+        "description": "Physics comes up in movies a lot, and as quite a difficult subject it is fun to see how physics is interpreted through the lens of cinema. Sometimes they get it very ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FbPZgOwnH4U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FbPZgOwnH4U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FbPZgOwnH4U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DoS - Domain of Science",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-06-16T07:18:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PUYWjj-_wCda7Sv0y7z_xbOFc6o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0Be_6Qaq1es"
+      },
+      "snippet": {
+        "publishedAt": "2018-06-04T14:20:55Z",
+        "channelId": "UCxqAWLTk1CmBvZFPzeZMd9A",
+        "title": "Calculus, what is it good for?",
+        "description": "Calculus is an incredibly useful tool for deriving new physics. Check out this video's sponsor https://brilliant.org/dos Here is a brief description of calculus, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0Be_6Qaq1es/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0Be_6Qaq1es/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0Be_6Qaq1es/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DoS - Domain of Science",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-06-04T14:20:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tfPiMz8H5m44SQefjLhyb-a3EIo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "90U_SmKyfGI"
+      },
+      "snippet": {
+        "publishedAt": "2018-04-02T14:30:15Z",
+        "channelId": "UCxqAWLTk1CmBvZFPzeZMd9A",
+        "title": "Quantum Supremacy Explained",
+        "description": "Find out what it takes for a quantum computer to beat a classical computer to achieve quantum supremacy. Check out this video's sponsor https://brilliant.org/dos ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/90U_SmKyfGI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/90U_SmKyfGI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/90U_SmKyfGI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DoS - Domain of Science",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-04-02T14:30:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mxqOMuKGS5s4c8GUW39KeoMbqT4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Kp2bYWRQylk"
+      },
+      "snippet": {
+        "publishedAt": "2018-02-28T22:35:37Z",
+        "channelId": "UCxqAWLTk1CmBvZFPzeZMd9A",
+        "title": "How to Read Math",
+        "description": "Baffled by equations, well no more! Continue learning at this video's sponsor https://brilliant.org/dos Lots of people find mathematical equations intimidating ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Kp2bYWRQylk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Kp2bYWRQylk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Kp2bYWRQylk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DoS - Domain of Science",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-02-28T22:35:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PVwevIMEOblTOQpRvhhDyVq3RGw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wENhHnJI1ys"
+      },
+      "snippet": {
+        "publishedAt": "2017-12-09T15:32:58Z",
+        "channelId": "UCxqAWLTk1CmBvZFPzeZMd9A",
+        "title": "Map of Biology",
+        "description": "Biology is the subject that studies life in all its forms, from the simple cell through to all the animals that inhabit the planet. In this map I lay out the subject of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wENhHnJI1ys/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wENhHnJI1ys/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wENhHnJI1ys/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DoS - Domain of Science",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-12-09T15:32:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PaJqU3MpsT2UuFP8u25IlkemeWA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GRm__SOzz6c"
+      },
+      "snippet": {
+        "publishedAt": "2017-10-17T15:46:02Z",
+        "channelId": "UCxqAWLTk1CmBvZFPzeZMd9A",
+        "title": "Every Animal In Your DNA",
+        "description": "Signup for your FREE trial to The Great Courses Plus here: http://ow.ly/crsQ30beNOZ You are the living ancestor of an unbroken chain of lives stretching from ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GRm__SOzz6c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GRm__SOzz6c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GRm__SOzz6c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DoS - Domain of Science",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-10-17T15:46:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UD7Adgha4cE4DruvsPw6OleeYro",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SzJ46YA_RaA"
+      },
+      "snippet": {
+        "publishedAt": "2017-09-06T15:36:30Z",
+        "channelId": "UCxqAWLTk1CmBvZFPzeZMd9A",
+        "title": "Map of Computer Science",
+        "description": "The field of computer science summarised. Learn more at this video's sponsor https://brilliant.org/dos Computer science is the subject that studies what ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SzJ46YA_RaA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SzJ46YA_RaA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SzJ46YA_RaA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DoS - Domain of Science",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-09-06T15:36:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "en5Wfp3LrItD6zThziVdg-GP6FQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Dt_PSoZLjPE"
+      },
+      "snippet": {
+        "publishedAt": "2017-08-01T19:06:17Z",
+        "channelId": "UCxqAWLTk1CmBvZFPzeZMd9A",
+        "title": "The Quantum Technology in Your Pocket",
+        "description": "You might not know that you use quantum technologies every day pretty much constantly. Here I have summarised five of them, but there are many others.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Dt_PSoZLjPE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Dt_PSoZLjPE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Dt_PSoZLjPE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DoS - Domain of Science",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-08-01T19:06:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mp-HuJOio7auh-47oy8EIwSqK00",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLOYRlicwLG3St5aEm02ncj-sPDJwmojIS"
+      },
+      "snippet": {
+        "publishedAt": "2017-06-17T00:39:51Z",
+        "channelId": "UCxqAWLTk1CmBvZFPzeZMd9A",
+        "title": "Map Videos - Domain of Science",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OmJ-4B-mS-Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OmJ-4B-mS-Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OmJ-4B-mS-Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DoS - Domain of Science",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-06-17T00:39:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ncc5Eng40hnS4nyO6ZI899NsaP4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "P3RXtoYCW4M"
+      },
+      "snippet": {
+        "publishedAt": "2017-05-16T16:20:01Z",
+        "channelId": "UCxqAWLTk1CmBvZFPzeZMd9A",
+        "title": "The Map of Chemistry",
+        "description": "The entire field of chemistry summarised in 12mins from simple atoms to the molecules that keep you alive.This video was sponsored by The Great Courses Plus ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P3RXtoYCW4M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P3RXtoYCW4M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P3RXtoYCW4M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DoS - Domain of Science",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-05-16T16:20:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3MSgVLlQdbVCkb8urBJKcPc-J4U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DJsJIVXkrGQ"
+      },
+      "snippet": {
+        "publishedAt": "2017-03-22T04:18:14Z",
+        "channelId": "UCxqAWLTk1CmBvZFPzeZMd9A",
+        "title": "You Use Quantum Physics to Smell",
+        "description": "Your nose uses quantum tunnelling to smell! This crazy conclusion comes from the latest interpretations of the evidence about how our smell receptors detect ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DJsJIVXkrGQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DJsJIVXkrGQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DJsJIVXkrGQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DoS - Domain of Science",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-03-22T04:18:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ic7PGzZ2WlnoTmkRJBk8K5FXmQE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OmJ-4B-mS-Y"
+      },
+      "snippet": {
+        "publishedAt": "2017-02-01T09:48:52Z",
+        "channelId": "UCxqAWLTk1CmBvZFPzeZMd9A",
+        "title": "The Map of Mathematics",
+        "description": "The entire field of mathematics summarised in a single map! This shows how pure mathematics and applied mathematics relate to each other and all of the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OmJ-4B-mS-Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OmJ-4B-mS-Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OmJ-4B-mS-Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DoS - Domain of Science",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-02-01T09:48:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Saja5ZrwxFhF2y2Uu61fFqWuygU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AFhOzhe9mg4"
+      },
+      "snippet": {
+        "publishedAt": "2016-12-31T07:38:15Z",
+        "channelId": "UCxqAWLTk1CmBvZFPzeZMd9A",
+        "title": "Gravitational Waves Are Awesome",
+        "description": "Everything you need to know about gravitational waves. In February 2016 scientists announced the first detection of gravitational waves by humans on Earth.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AFhOzhe9mg4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AFhOzhe9mg4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AFhOzhe9mg4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DoS - Domain of Science",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-12-31T07:38:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ve8AXVZVQjYckrq8vh_HOyK913I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZihywtixUYo"
+      },
+      "snippet": {
+        "publishedAt": "2016-11-28T04:18:13Z",
+        "channelId": "UCxqAWLTk1CmBvZFPzeZMd9A",
+        "title": "The Map of Physics",
+        "description": "Everything we know about physics - and a few things we don't - in a simple map. If you are interested in buying a print you can buy it as a poster here: North ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZihywtixUYo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZihywtixUYo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZihywtixUYo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DoS - Domain of Science",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-11-28T04:18:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eKxvxSIsUIJEN0-QpsChlYM5Th0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "A17b_Ncwfv0"
+      },
+      "snippet": {
+        "publishedAt": "2016-10-28T15:31:12Z",
+        "channelId": "UCxqAWLTk1CmBvZFPzeZMd9A",
+        "title": "Why is it called a SQUARE root?",
+        "description": "I explain why it is called a square root, and also how a square root works. Clarifications: To keep this video simple I decided to not talk about complex numbers.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A17b_Ncwfv0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A17b_Ncwfv0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A17b_Ncwfv0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DoS - Domain of Science",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-10-28T15:31:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DaBA8OMraRBhyW8dEYOs3lfgyV4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eiwwk2r1QWI"
+      },
+      "snippet": {
+        "publishedAt": "2016-10-14T03:34:28Z",
+        "channelId": "UCxqAWLTk1CmBvZFPzeZMd9A",
+        "title": "Beer Made With Wasp Guts!!",
+        "description": "You need yeast to make beer. Scientists discovered that wasps have yeast in their bellies, so why no make beer out of it! Brassneck brewery did just that so I ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eiwwk2r1QWI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eiwwk2r1QWI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eiwwk2r1QWI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DoS - Domain of Science",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-10-14T03:34:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RrQQ6dUxNf-m989z4-0ekIrZdSs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OokV2AX4TKg"
+      },
+      "snippet": {
+        "publishedAt": "2016-07-11T05:41:24Z",
+        "channelId": "UCxqAWLTk1CmBvZFPzeZMd9A",
+        "title": "What is machine learning?",
+        "description": "Machine learning is everywhere these days, but not everyone knows what it is; in this video I give a simple explanation. http://dominicwalliman.com/ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OokV2AX4TKg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OokV2AX4TKg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OokV2AX4TKg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DoS - Domain of Science",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-07-11T05:41:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5Howtlzl1HKy2hUWpo3EFtG00_0",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLOYRlicwLG3RggyAqBWfLZ0bB0f_JmwS_"
+      },
+      "snippet": {
+        "publishedAt": "2016-05-31T03:00:37Z",
+        "channelId": "UCxqAWLTk1CmBvZFPzeZMd9A",
+        "title": "Videos I made for D-Wave Systems",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zvfkXjzzYOo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zvfkXjzzYOo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zvfkXjzzYOo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DoS - Domain of Science",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-05-31T03:00:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-JQcvK6e9lauNP6lfUimPGQSX4U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6azrJleaF34"
+      },
+      "snippet": {
+        "publishedAt": "2016-05-31T00:37:50Z",
+        "channelId": "UCxqAWLTk1CmBvZFPzeZMd9A",
+        "title": "Vancouver Crows a Mass Murder",
+        "description": "Every evening near Vancouver BC, a huge gathering of crows descend on a single block at Still Creek Drive, Burnaby. It is crazy!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6azrJleaF34/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6azrJleaF34/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6azrJleaF34/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DoS - Domain of Science",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-05-31T00:37:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9hTDeldyuGbv6-kv3ZtfUZsAlRg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1hkFELI6mK0"
+      },
+      "snippet": {
+        "publishedAt": "2011-02-01T12:27:43Z",
+        "channelId": "UCxqAWLTk1CmBvZFPzeZMd9A",
+        "title": "Introduction to Cold Atom Physics",
+        "description": "An introduction video to the field of Ultra-cold Atom Physics filmed at the MUARC summer school in 2010. This video introduces the concepts involved in cooling ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1hkFELI6mK0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1hkFELI6mK0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1hkFELI6mK0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DoS - Domain of Science",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-02-01T12:27:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XGiTf3yltgih_O_No7imj-gMC-Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VyX8E4KUkWw"
+      },
+      "snippet": {
+        "publishedAt": "2010-06-30T12:27:46Z",
+        "channelId": "UCxqAWLTk1CmBvZFPzeZMd9A",
+        "title": "Quantum Computing",
+        "description": "A short video explaining what quantum computers are, how they work, and what you'd need to build one.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VyX8E4KUkWw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VyX8E4KUkWw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VyX8E4KUkWw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DoS - Domain of Science",
+        "liveBroadcastContent": "none",
+        "publishTime": "2010-06-30T12:27:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GS_szvweehy5DEFBwgNzlRLp560",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCxqAWLTk1CmBvZFPzeZMd9A"
+      },
+      "snippet": {
+        "publishedAt": "2010-04-08T08:56:20Z",
+        "channelId": "UCxqAWLTk1CmBvZFPzeZMd9A",
+        "title": "DoS - Domain of Science",
+        "description": "Welcome to the Domain of Science. Aiming for the clearest explanations of science and mathematics. Made and hosted by Dominic Walliman PhD experimental ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzn7b7O3zaktjJRfJx0qDfDw9TqLFIA_1BoAknkxw=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzn7b7O3zaktjJRfJx0qDfDw9TqLFIA_1BoAknkxw=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzn7b7O3zaktjJRfJx0qDfDw9TqLFIA_1BoAknkxw=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "DoS - Domain of Science",
+        "liveBroadcastContent": "none",
+        "publishTime": "2010-04-08T08:56:20Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1712 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "dH4BiSpJINcdOsl0V6sFXSxicZU",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "MK",
+  "pageInfo": {
+    "totalResults": 54,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1XLhAN_xOckpf4vk0IHeMB46p4M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DIAKL0s4Mzs"
+      },
+      "snippet": {
+        "publishedAt": "2019-02-09T13:16:41Z",
+        "channelId": "UConVfxXodg78Tzh5nNu85Ew",
+        "title": "Self-Driving Cars [S1E4: RALPH]",
+        "description": "PATREON: https://www.patreon.com/welchlabs TWITTER: @welchlabs MORE: http://www.welchlabs.com CODE: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DIAKL0s4Mzs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DIAKL0s4Mzs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DIAKL0s4Mzs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welch Labs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-02-09T13:16:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZtE8Ga6zVp2esyu4YE0q0wEVpmk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yaYER2M8dcs"
+      },
+      "snippet": {
+        "publishedAt": "2019-02-02T13:50:05Z",
+        "channelId": "UConVfxXodg78Tzh5nNu85Ew",
+        "title": "Self-Driving Cars [S1E3: AI Failure?]",
+        "description": "PATREON: https://www.patreon.com/welchlabs TWITTER: @welchlabs MORE: http://www.welchlabs.com CODE: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yaYER2M8dcs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yaYER2M8dcs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yaYER2M8dcs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welch Labs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-02-02T13:50:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-z7Fnxgi-lptDoK1pHmPGR2r2Sc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "H0igiP6Hg1k"
+      },
+      "snippet": {
+        "publishedAt": "2019-01-19T15:01:52Z",
+        "channelId": "UConVfxXodg78Tzh5nNu85Ew",
+        "title": "Self Driving Cars [S1E2: ALVINN]",
+        "description": "PATREON: https://www.patreon.com/welchlabs TWITTER: @welchlabs MORE: http://www.welchlabs.com CODE: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/H0igiP6Hg1k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/H0igiP6Hg1k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/H0igiP6Hg1k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welch Labs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-01-19T15:01:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5ai_2g6yOCi7jQNbJDch1X9r-t8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cExJbbwOfcw"
+      },
+      "snippet": {
+        "publishedAt": "2019-01-11T14:26:53Z",
+        "channelId": "UConVfxXodg78Tzh5nNu85Ew",
+        "title": "Self Driving Cars [S1E1: The ALV]",
+        "description": "PATREON: https://www.patreon.com/welchlabs TWITTER: @welchlabs MORE: http://www.welchlabs.com CODE: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cExJbbwOfcw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cExJbbwOfcw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cExJbbwOfcw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welch Labs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-01-11T14:26:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5wVjJVCKxg7lYE7_0L-cdE1jXY4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BKoT-Nz_rZk"
+      },
+      "snippet": {
+        "publishedAt": "2018-03-22T14:54:05Z",
+        "channelId": "UConVfxXodg78Tzh5nNu85Ew",
+        "title": "How to Science [Part 6: Secret Math in Your Brain]",
+        "description": "supporting pdf: http://www.welchlabs.com/guides support Welch Labs: https://www.patreon.com/welchlabs MIT Video: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BKoT-Nz_rZk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BKoT-Nz_rZk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BKoT-Nz_rZk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welch Labs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-03-22T14:54:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WczBmDAH2o1U7xTTxuvipEss9kg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sTSNTWKGkbw"
+      },
+      "snippet": {
+        "publishedAt": "2018-01-29T20:15:04Z",
+        "channelId": "UConVfxXodg78Tzh5nNu85Ew",
+        "title": "How to Science [Part 5: Mathematics]",
+        "description": "pdf: http://www.welchlabs.com/guides support welch labs: https://www.patreon.com/welchlabs music: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sTSNTWKGkbw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sTSNTWKGkbw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sTSNTWKGkbw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welch Labs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-01-29T20:15:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gmCNJ3wfwCXlCVwfBZzgSzVFWbo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Y7kCJtWFpUU"
+      },
+      "snippet": {
+        "publishedAt": "2017-12-24T15:14:38Z",
+        "channelId": "UConVfxXodg78Tzh5nNu85Ew",
+        "title": "How To Science [Part 4: Science]",
+        "description": "PDF: http://www.welchlabs.com/guides Support Welch Labs: www.patreon.com/welchlabs Music: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y7kCJtWFpUU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y7kCJtWFpUU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y7kCJtWFpUU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welch Labs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-12-24T15:14:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SFhDfHiXxpyTYhjjR9L-iwFYHeI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "b-CPQdWU-sI"
+      },
+      "snippet": {
+        "publishedAt": "2017-12-10T20:37:46Z",
+        "channelId": "UConVfxXodg78Tzh5nNu85Ew",
+        "title": "How to Science [Part 3: Experiments]",
+        "description": "PDF: http://www.welchlabs.com/guides/ Support Welch Labs: https://www.patreon.com/welchlabs Music: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b-CPQdWU-sI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b-CPQdWU-sI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b-CPQdWU-sI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welch Labs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-12-10T20:37:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hNOKbv2Fq3U26zmvpowANwYQin4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "I7rlzkU7zbk"
+      },
+      "snippet": {
+        "publishedAt": "2017-09-25T22:00:26Z",
+        "channelId": "UConVfxXodg78Tzh5nNu85Ew",
+        "title": "How to Science [Part 2: Our Universe = Math?]",
+        "description": "pdf for this video: http://www.welchlabs.com/guides support welch labs: https://www.patreon.com/welchlabs music: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I7rlzkU7zbk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I7rlzkU7zbk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I7rlzkU7zbk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welch Labs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-09-25T22:00:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1RLDXk3cGShbztrSHtkGsu-fCAc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "d3mHfqd0VZY"
+      },
+      "snippet": {
+        "publishedAt": "2017-09-09T13:47:49Z",
+        "channelId": "UConVfxXodg78Tzh5nNu85Ew",
+        "title": "How to Science [Part 1: Music]",
+        "description": "pdf: http://www.welchlabs.com/guides music: https://www.premiumbeat.com/royalty_free_music/songs/storytelling-piano patreon: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d3mHfqd0VZY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d3mHfqd0VZY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d3mHfqd0VZY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welch Labs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-09-09T13:47:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "58lYR5k3YoUWE6Y_8vLHaAQGE9U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gZPy7OxAjRM"
+      },
+      "snippet": {
+        "publishedAt": "2017-04-29T18:07:08Z",
+        "channelId": "UConVfxXodg78Tzh5nNu85Ew",
+        "title": "Channel Update [April 2017]",
+        "description": "Help me make more videos: https://www.patreon.com/welchlabs YouTube channels referenced: MinutePhysics, Veritaseum, VSauce, Physics Girl, CGP Grey, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gZPy7OxAjRM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gZPy7OxAjRM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gZPy7OxAjRM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welch Labs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-04-29T18:07:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tIlUETdzzRkNr8RivCUK_0Dht_4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FMCY3SXTELE"
+      },
+      "snippet": {
+        "publishedAt": "2017-04-15T22:16:17Z",
+        "channelId": "UConVfxXodg78Tzh5nNu85Ew",
+        "title": "Learning To See [Part 15: Information]",
+        "description": "In this series, we'll explore the complex landscape of machine learning and artificial intelligence through one example from the field of computer vision: using a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FMCY3SXTELE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FMCY3SXTELE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FMCY3SXTELE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welch Labs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-04-15T22:16:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Hp3NH4k1PPG1ktHhGK8i-jBqHYE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tPHImr2sFBM"
+      },
+      "snippet": {
+        "publishedAt": "2017-04-01T21:03:06Z",
+        "channelId": "UConVfxXodg78Tzh5nNu85Ew",
+        "title": "Learning To See [Part 14: Better Heuristics]",
+        "description": "In this series, we'll explore the complex landscape of machine learning and artificial intelligence through one example from the field of computer vision: using a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tPHImr2sFBM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tPHImr2sFBM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tPHImr2sFBM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welch Labs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-04-01T21:03:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "z68nen8-xscKzl7ja8byzoczqvQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "g_sA8hYU3b8"
+      },
+      "snippet": {
+        "publishedAt": "2017-03-18T16:04:51Z",
+        "channelId": "UConVfxXodg78Tzh5nNu85Ew",
+        "title": "Learning To See [Part 13: Heuristics]",
+        "description": "In this series, we'll explore the complex landscape of machine learning and artificial intelligence through one example from the field of computer vision: using a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g_sA8hYU3b8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g_sA8hYU3b8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g_sA8hYU3b8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welch Labs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-03-18T16:04:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "e8L58ZlFViBCe5Tz-7dbzzOU91Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Kg8W_q8pHik"
+      },
+      "snippet": {
+        "publishedAt": "2017-03-04T17:09:02Z",
+        "channelId": "UConVfxXodg78Tzh5nNu85Ew",
+        "title": "Learning To See [Part 12: Let&#39;s Get Greedy]",
+        "description": "In this series, we'll explore the complex landscape of machine learning and artificial intelligence through one example from the field of computer vision: using a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Kg8W_q8pHik/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Kg8W_q8pHik/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Kg8W_q8pHik/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welch Labs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-03-04T17:09:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "L_EajNrWXJ10jw6Ep9z3X3Wo9_U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "biy2yU3Auc4"
+      },
+      "snippet": {
+        "publishedAt": "2017-02-18T16:13:05Z",
+        "channelId": "UConVfxXodg78Tzh5nNu85Ew",
+        "title": "Learning to See [Part 11: Haystacks on Haystacks]",
+        "description": "In this series, we'll explore the complex landscape of machine learning and artificial intelligence through one example from the field of computer vision: using a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/biy2yU3Auc4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/biy2yU3Auc4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/biy2yU3Auc4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welch Labs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-02-18T16:13:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HhB7XndAbwZrKB9HPp7ZV6hbYY4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6cvPj9dmYTo"
+      },
+      "snippet": {
+        "publishedAt": "2017-02-04T13:22:30Z",
+        "channelId": "UConVfxXodg78Tzh5nNu85Ew",
+        "title": "Learning to See [Part 10: World Domination]",
+        "description": "In this series, we'll explore the complex landscape of machine learning and artificial intelligence through one example from the field of computer vision: using a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6cvPj9dmYTo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6cvPj9dmYTo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6cvPj9dmYTo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welch Labs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-02-04T13:22:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OgD_XPD7tYKkFdnVOyKmyPIGxcw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yLwZEuybaqE"
+      },
+      "snippet": {
+        "publishedAt": "2017-01-21T13:09:23Z",
+        "channelId": "UConVfxXodg78Tzh5nNu85Ew",
+        "title": "Learning To See [Part 9: Bias Variance Throwdown]",
+        "description": "In this series, we'll explore the complex landscape of machine learning and artificial intelligence through one example from the field of computer vision: using a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yLwZEuybaqE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yLwZEuybaqE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yLwZEuybaqE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welch Labs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-01-21T13:09:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "P0VXMCEMZriPtKxRSW3wjV0qIzg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UVwwYZMFocg"
+      },
+      "snippet": {
+        "publishedAt": "2017-01-07T17:50:23Z",
+        "channelId": "UConVfxXodg78Tzh5nNu85Ew",
+        "title": "Learning to See [Part 8: More Assumptions...Fewer Problems?]",
+        "description": "In this series, we'll explore the complex landscape of machine learning and artificial intelligence through one example from the field of computer vision: using a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UVwwYZMFocg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UVwwYZMFocg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UVwwYZMFocg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welch Labs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-01-07T17:50:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9BcdUPldOUXKNU-NLXmevFkirJU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "klWUOO4sHaA"
+      },
+      "snippet": {
+        "publishedAt": "2016-12-24T14:45:48Z",
+        "channelId": "UConVfxXodg78Tzh5nNu85Ew",
+        "title": "Learning to See [Part 7: There is no f]",
+        "description": "In this series, we'll explore the complex landscape of machine learning and artificial intelligence through one example from the field of computer vision: using a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/klWUOO4sHaA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/klWUOO4sHaA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/klWUOO4sHaA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welch Labs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-12-24T14:45:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TxQpJ5-Z9vbeyJlftdNURkOq5uA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GufQYkMkdpw"
+      },
+      "snippet": {
+        "publishedAt": "2016-12-10T15:55:00Z",
+        "channelId": "UConVfxXodg78Tzh5nNu85Ew",
+        "title": "Learning To See [Part 6: It&#39;s Definitely Time to Play with Legos]",
+        "description": "In this series, we'll explore the complex landscape of machine learning and artificial intelligence through one example from the field of computer vision: using a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GufQYkMkdpw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GufQYkMkdpw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GufQYkMkdpw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welch Labs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-12-10T15:55:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "r0KbZecOm8pfWDvHvGCv17fG9CU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "efR8ybG7Ihs"
+      },
+      "snippet": {
+        "publishedAt": "2016-11-26T13:08:54Z",
+        "channelId": "UConVfxXodg78Tzh5nNu85Ew",
+        "title": "Learning to See [Part 5: To Learn is to Generalize]",
+        "description": "In this series, we'll explore the complex landscape of machine learning and artificial intelligence through one example from the field of computer vision: using a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/efR8ybG7Ihs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/efR8ybG7Ihs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/efR8ybG7Ihs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welch Labs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-11-26T13:08:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1fkAX56v7cWEwJc5-durAjQET6w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sarVw-iVWgc"
+      },
+      "snippet": {
+        "publishedAt": "2016-11-12T14:58:52Z",
+        "channelId": "UConVfxXodg78Tzh5nNu85Ew",
+        "title": "Learning to See [Part 4: Machine Learning]",
+        "description": "In this series, we'll explore the complex landscape of machine learning and artificial intelligence through one example from the field of computer vision: using a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sarVw-iVWgc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sarVw-iVWgc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sarVw-iVWgc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welch Labs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-11-12T14:58:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bzNlxzEQhEatu7iwkRP4AdKPXRI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0cRXaORbIFA"
+      },
+      "snippet": {
+        "publishedAt": "2016-10-28T13:08:48Z",
+        "channelId": "UConVfxXodg78Tzh5nNu85Ew",
+        "title": "Learning To See [Part 3: Now I R1]",
+        "description": "In this series, we'll explore the complex landscape of machine learning and artificial intelligence through one example from the field of computer vision: using a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0cRXaORbIFA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0cRXaORbIFA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0cRXaORbIFA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welch Labs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-10-28T13:08:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-0foksAPOZ3YNnnhs_4E9cEQiog",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLiaHhY2iBX9ihLasvE8BKnS2Xg8AhY6iV"
+      },
+      "snippet": {
+        "publishedAt": "2016-10-15T15:04:29Z",
+        "channelId": "UConVfxXodg78Tzh5nNu85Ew",
+        "title": "Learning To See",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i8D90DkCLhI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i8D90DkCLhI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i8D90DkCLhI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welch Labs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-10-15T15:04:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "D3yaewNNbvv9paR49i2WG3xEWd4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2ZhQkD1QKFw"
+      },
+      "snippet": {
+        "publishedAt": "2016-10-15T15:00:46Z",
+        "channelId": "UConVfxXodg78Tzh5nNu85Ew",
+        "title": "Learning To See [Part 2: Rules on Rules on Rules]",
+        "description": "In this series, we'll explore the complex landscape of machine learning and artificial intelligence through one example from the field of computer vision: using a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2ZhQkD1QKFw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2ZhQkD1QKFw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2ZhQkD1QKFw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welch Labs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-10-15T15:00:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uGWJqN-8JiZZnRTsGQjNQ5JhaZg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4MmSZrAlqKc"
+      },
+      "snippet": {
+        "publishedAt": "2016-09-03T14:26:57Z",
+        "channelId": "UConVfxXodg78Tzh5nNu85Ew",
+        "title": "Imaginary Numbers Are Real [Part 13: Riemann Surfaces]",
+        "description": "Want to learn more or teach this series? Check out the Imaginary Numbers are Real Workbook: http://www.welchlabs.com/resources. Supporting Code: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4MmSZrAlqKc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4MmSZrAlqKc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4MmSZrAlqKc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welch Labs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-09-03T14:26:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ArgqI4ynFi4wRzkVkuQoBhLXstc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DpUmrKOQhAM"
+      },
+      "snippet": {
+        "publishedAt": "2016-07-01T11:36:55Z",
+        "channelId": "UConVfxXodg78Tzh5nNu85Ew",
+        "title": "Imaginary Numbers Are Real [Part 12: Riemann&#39;s Solution]",
+        "description": "Want to experiment with Riemann's idea yourself? You can download your very own copy of of the final w-planes to experiment with here: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DpUmrKOQhAM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DpUmrKOQhAM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DpUmrKOQhAM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welch Labs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-07-01T11:36:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "l7BR_Cvu2UR0n0EuwIFZa3iOIBY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0hiWbdc8QEk"
+      },
+      "snippet": {
+        "publishedAt": "2016-06-17T13:35:07Z",
+        "channelId": "UConVfxXodg78Tzh5nNu85Ew",
+        "title": "Imaginary Numbers Are Real [Part 11: Wandering in 4 Dimensions]",
+        "description": "More information and resources: http://www.welchlabs.com Supporting Code: https://github.com/stephencwelch/Imaginary-Numbers-Are-Real Imaginary ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0hiWbdc8QEk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0hiWbdc8QEk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0hiWbdc8QEk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welch Labs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-06-17T13:35:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LaLaeEYF7XBucK8OewnxXeyzKnk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pNp8Qf20-sA"
+      },
+      "snippet": {
+        "publishedAt": "2016-06-03T13:47:09Z",
+        "channelId": "UConVfxXodg78Tzh5nNu85Ew",
+        "title": "Imaginary Numbers Are Real [Part 10: Complex Functions]",
+        "description": "Supporting Code: https://github.com/stephencwelch/Imaginary-Numbers-Are-Real More information and resources: http://www.welchlabs.com Imaginary ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pNp8Qf20-sA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pNp8Qf20-sA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pNp8Qf20-sA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welch Labs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-06-03T13:47:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "trI3oZZRSLUJ2mxbwQejcdCAAPo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "i8D90DkCLhI"
+      },
+      "snippet": {
+        "publishedAt": "2016-04-15T15:42:49Z",
+        "channelId": "UConVfxXodg78Tzh5nNu85Ew",
+        "title": "Learning To See [Part 1: Introduction]",
+        "description": "In this series, we'll explore the complex landscape of machine learning and artificial intelligence through one example from the field of computer vision: using a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i8D90DkCLhI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i8D90DkCLhI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i8D90DkCLhI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welch Labs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-04-15T15:42:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mr973ca6A_Ss8g9svFCayiXG04s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dLn5H69lS0w"
+      },
+      "snippet": {
+        "publishedAt": "2015-11-06T18:05:36Z",
+        "channelId": "UConVfxXodg78Tzh5nNu85Ew",
+        "title": "Imaginary Numbers Are Real [Part 9: Closure]",
+        "description": "More information and resources: http://www.welchlabs.com Imaginary numbers are not some wild invention, they are the deep and natural result of extending ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dLn5H69lS0w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dLn5H69lS0w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dLn5H69lS0w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welch Labs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-11-06T18:05:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "K7VJj3Hn9xoQMR4hRbrI4JBoA58",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iecUL8_OxrU"
+      },
+      "snippet": {
+        "publishedAt": "2015-10-23T11:25:33Z",
+        "channelId": "UConVfxXodg78Tzh5nNu85Ew",
+        "title": "Imaginary Numbers Are Real [Part 8: Math Wizardry]",
+        "description": "More information and resources: http://www.welchlabs.com Imaginary numbers are not some wild invention, they are the deep and natural result of extending ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iecUL8_OxrU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iecUL8_OxrU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iecUL8_OxrU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welch Labs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-10-23T11:25:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jFHdT_KszFE8Z_JxiV8wArblnvs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YHvR8siIiD0"
+      },
+      "snippet": {
+        "publishedAt": "2015-10-09T15:56:01Z",
+        "channelId": "UConVfxXodg78Tzh5nNu85Ew",
+        "title": "Imaginary Numbers Are Real [Part 7: Complex Multiplication]",
+        "description": "More information and resources: http://www.welchlabs.com Imaginary numbers are not some wild invention, they are the deep and natural result of extending ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YHvR8siIiD0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YHvR8siIiD0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YHvR8siIiD0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welch Labs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-10-09T15:56:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JEtm-VjvH6w4NmG2ydITM1MOQe0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "z5IG_6_zPDo"
+      },
+      "snippet": {
+        "publishedAt": "2015-10-02T15:33:53Z",
+        "channelId": "UConVfxXodg78Tzh5nNu85Ew",
+        "title": "Imaginary Numbers Are Real [Part 6: The Complex Plane]",
+        "description": "For full problem statement, check out: http://www.welchlabs.com/blog/2015/10/2/imaginary-numbers-are-real-part-6-the-complex-plane More information and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z5IG_6_zPDo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z5IG_6_zPDo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z5IG_6_zPDo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welch Labs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-10-02T15:33:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AuAMtFeg7aXMn_tMdXL1O3v1DZc",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLiaHhY2iBX9g6KIvZ_703G3KJXapKkNaF"
+      },
+      "snippet": {
+        "publishedAt": "2015-10-02T15:11:19Z",
+        "channelId": "UConVfxXodg78Tzh5nNu85Ew",
+        "title": "Imaginary Numbers are Real",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T647CGsuOVU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T647CGsuOVU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T647CGsuOVU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welch Labs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-10-02T15:11:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "toFHQL7wlGLzSsYEGZ3Xd-WHiGE",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU"
+      },
+      "snippet": {
+        "publishedAt": "2015-10-02T15:09:49Z",
+        "channelId": "UConVfxXodg78Tzh5nNu85Ew",
+        "title": "Neural Networks Demystified",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bxe2T-V8XRs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bxe2T-V8XRs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bxe2T-V8XRs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welch Labs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-10-02T15:09:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZW9o5eBrTEYNqULKNRaQfI2PHyo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "65wYmy8Pf-Y"
+      },
+      "snippet": {
+        "publishedAt": "2015-09-25T12:31:54Z",
+        "channelId": "UConVfxXodg78Tzh5nNu85Ew",
+        "title": "Imaginary Numbers Are Real [Part 5: Numbers are Two Dimensional]",
+        "description": "More information and resources: http://www.welchlabs.com Imaginary numbers are not some wild invention, they are the deep and natural result of extending ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/65wYmy8Pf-Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/65wYmy8Pf-Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/65wYmy8Pf-Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welch Labs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-09-25T12:31:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VYpz9uA0spHTkG5aE7PhbPmGuCQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DThAoT3q2V4"
+      },
+      "snippet": {
+        "publishedAt": "2015-09-18T11:43:47Z",
+        "channelId": "UConVfxXodg78Tzh5nNu85Ew",
+        "title": "Imaginary Numbers Are Real [Part 4: Bombelli&#39;s Solution]",
+        "description": "More information and resources: http://www.welchlabs.com Imaginary numbers are not some wild invention, they are the deep and natural result of extending ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DThAoT3q2V4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DThAoT3q2V4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DThAoT3q2V4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welch Labs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-09-18T11:43:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Rvmsv40DCreL0QPzLZ3VwYhFwN4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "N9QOLrfcKNc"
+      },
+      "snippet": {
+        "publishedAt": "2015-09-11T15:21:15Z",
+        "channelId": "UConVfxXodg78Tzh5nNu85Ew",
+        "title": "Imaginary Numbers Are Real [Part 3: Cardan&#39;s Problem]",
+        "description": "More information and resources: http://www.welchlabs.com Imaginary numbers are not some wild invention, they are the deep and natural result of extending ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N9QOLrfcKNc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N9QOLrfcKNc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N9QOLrfcKNc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welch Labs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-09-11T15:21:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "u4u3TyjP1l_0O2kM0m3lLAXA86A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2HrSG0fdxLY"
+      },
+      "snippet": {
+        "publishedAt": "2015-09-04T20:26:50Z",
+        "channelId": "UConVfxXodg78Tzh5nNu85Ew",
+        "title": "Imaginary Numbers Are Real [Part 2: A Little History]",
+        "description": "Want to learn more or teach this series? Check out the Imaginary Numbers are Real Workbook: http://www.welchlabs.com/resources. Imaginary numbers are not ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2HrSG0fdxLY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2HrSG0fdxLY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2HrSG0fdxLY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welch Labs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-09-04T20:26:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "esxyi_cusCEvAQtPSmvK5OZxtqw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "T647CGsuOVU"
+      },
+      "snippet": {
+        "publishedAt": "2015-08-28T13:56:12Z",
+        "channelId": "UConVfxXodg78Tzh5nNu85Ew",
+        "title": "Imaginary Numbers Are Real [Part 1: Introduction]",
+        "description": "For early access to new videos and other perks: https://www.patreon.com/welchlabs Want to learn more or teach this series? Check out the Imaginary Numbers ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T647CGsuOVU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T647CGsuOVU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T647CGsuOVU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welch Labs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-08-28T13:56:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0U6NKCjAQGtX73eYH-ro5CZbRz8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZzVpT8w8ILU"
+      },
+      "snippet": {
+        "publishedAt": "2015-05-15T11:05:07Z",
+        "channelId": "UConVfxXodg78Tzh5nNu85Ew",
+        "title": "Waffles And Harmonic Motion [Part II]",
+        "description": "In this two part series, we dig into understanding and quantifying simple harmonic motion (SHM). We try to figure our why systems that oscillate move the way ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZzVpT8w8ILU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZzVpT8w8ILU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZzVpT8w8ILU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welch Labs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-05-15T11:05:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "avZ1NqQLWjXHHmUFVngSEqYug8c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nKavBl1EWiI"
+      },
+      "snippet": {
+        "publishedAt": "2015-05-01T12:30:45Z",
+        "channelId": "UConVfxXodg78Tzh5nNu85Ew",
+        "title": "Waffles And Harmonic Motion [Part 1]",
+        "description": "In this two part series, we dig into understanding and quantifying simple harmonic motion (SHM). We try to figure our why oscillating systems that move the way ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nKavBl1EWiI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nKavBl1EWiI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nKavBl1EWiI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welch Labs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-05-01T12:30:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VpAbKOgMgn5O8e8Nb8_Dux4LaTc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "F-uw8PKD0dI"
+      },
+      "snippet": {
+        "publishedAt": "2015-03-20T20:32:09Z",
+        "channelId": "UConVfxXodg78Tzh5nNu85Ew",
+        "title": "How To Break Sound [Part 1]",
+        "description": "In this video we conduct a simple experiment and find some surprising results. Supporting Code: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F-uw8PKD0dI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F-uw8PKD0dI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F-uw8PKD0dI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welch Labs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-03-20T20:32:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Wug4TT2toY-fOaovtco5VTjJCKI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3HGEMaiNMQY"
+      },
+      "snippet": {
+        "publishedAt": "2015-02-27T21:15:39Z",
+        "channelId": "UConVfxXodg78Tzh5nNu85Ew",
+        "title": "Acoustics to Deep Learning",
+        "description": "Introduction to series on sound, acoustics, signal processing, perception, and deep learning. Link to Supporting Code: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3HGEMaiNMQY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3HGEMaiNMQY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3HGEMaiNMQY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welch Labs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-02-27T21:15:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wKzwKpST_sVw6n9mzzcq1LcoPGI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "S4ZUwgesjS8"
+      },
+      "snippet": {
+        "publishedAt": "2015-01-16T21:07:26Z",
+        "channelId": "UConVfxXodg78Tzh5nNu85Ew",
+        "title": "Neural Networks Demystified [Part 7: Overfitting, Testing, and Regularization]",
+        "description": "We've built and trained our neural network, but before we celebrate, we must be sure that our model is representative of the real world. Supporting Code: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S4ZUwgesjS8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S4ZUwgesjS8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S4ZUwgesjS8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welch Labs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-01-16T21:07:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zIhFwVypOq66pOdT_oJerqmb75c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9KM9Td6RVgQ"
+      },
+      "snippet": {
+        "publishedAt": "2015-01-02T14:44:27Z",
+        "channelId": "UConVfxXodg78Tzh5nNu85Ew",
+        "title": "Neural Networks Demystified [Part 6: Training]",
+        "description": "After all that work it's finally time to train our Neural Network. We'll use the BFGS numerical optimization algorithm and have a look at the results. Supporting ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9KM9Td6RVgQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9KM9Td6RVgQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9KM9Td6RVgQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welch Labs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-01-02T14:44:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-ky-VffD35ZmJx-yDjF8SEnYL-Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pHMzNW8Agq4"
+      },
+      "snippet": {
+        "publishedAt": "2014-12-19T16:01:28Z",
+        "channelId": "UConVfxXodg78Tzh5nNu85Ew",
+        "title": "Neural Networks Demystified [Part 5: Numerical Gradient Checking]",
+        "description": "When building complex systems like neural networks, checking portions of your work can save hours of headache. Here we'll check our gradient computations.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pHMzNW8Agq4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pHMzNW8Agq4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pHMzNW8Agq4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welch Labs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-12-19T16:01:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HSLlBZ_Rjg6OADBKU1kyfUsmJH0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GlcnxUlrtek"
+      },
+      "snippet": {
+        "publishedAt": "2014-12-05T21:19:24Z",
+        "channelId": "UConVfxXodg78Tzh5nNu85Ew",
+        "title": "Neural Networks Demystified [Part 4: Backpropagation]",
+        "description": "Backpropagation as simple as possible, but no simpler. Perhaps the most misunderstood part of neural networks, Backpropagation of errors is the key step that ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GlcnxUlrtek/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GlcnxUlrtek/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GlcnxUlrtek/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welch Labs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-12-05T21:19:24Z"
+      }
+    }
+  ]
+}

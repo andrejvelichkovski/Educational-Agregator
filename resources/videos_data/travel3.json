@@ -1,0 +1,1712 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "4Uo8koRavqerZEaVhDgb3OdAe8s",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "MK",
+  "pageInfo": {
+    "totalResults": 1155,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UxdJFrgR-sYAEMqoHEXRbfDODrw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6sh8ECbipL8"
+      },
+      "snippet": {
+        "publishedAt": "2020-11-03T13:00:01Z",
+        "channelId": "UCs5GnuB9y1pSWswQPLF2kXA",
+        "title": "This is HARD!",
+        "description": "Surf photography isn't easy. I've done it before with mixed results, but today was really hard! Still, there were some keepers! Get a Photo Blog at ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6sh8ECbipL8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6sh8ECbipL8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6sh8ECbipL8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brendan van Son",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-11-03T13:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tzn48xn_IJq25LguQl0NREzfv-U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cPqKM7zPU3s"
+      },
+      "snippet": {
+        "publishedAt": "2020-11-01T13:00:12Z",
+        "channelId": "UCs5GnuB9y1pSWswQPLF2kXA",
+        "title": "Life / Work / Camera Gear / Update",
+        "description": "There's a lot going on in my life. So this is a bit of an update! Antarctica: https://www.voyager.photography/ Portugal: http://bit.ly/BvSPortugal Mastermind: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cPqKM7zPU3s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cPqKM7zPU3s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cPqKM7zPU3s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brendan van Son",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-11-01T13:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LnjMmtWCkvzHczGniz_BVQ723ak",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "C_flf15yvs8"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-28T14:07:57Z",
+        "channelId": "UCs5GnuB9y1pSWswQPLF2kXA",
+        "title": "The Rule of &quot;Does it Look Cool&quot;",
+        "description": "Photo website on SquareSpace: http://www.squarespace.com/brendanvanson My Camera Gear: http://bit.ly/BvSGear There are a lot of photography rules.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C_flf15yvs8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C_flf15yvs8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C_flf15yvs8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brendan van Son",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-28T14:07:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1PHfN44ctvV0s2XP3aORJHB3VTU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sZ_cv_FkqsM"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-25T13:36:33Z",
+        "channelId": "UCs5GnuB9y1pSWswQPLF2kXA",
+        "title": "My MASSIVE New Tripod 3 Legged Thing Tommy",
+        "description": "On today's video, I'm doing a review of the 3 Legged Thing Tommy, which is the newest tripod by @3 Legged Thing 3 Legged Thing Tommy: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sZ_cv_FkqsM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sZ_cv_FkqsM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sZ_cv_FkqsM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brendan van Son",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-25T13:36:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GGUY83q3-g81mOkQq6efnVTqqSM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ob92TNd2PSs"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-18T14:00:08Z",
+        "channelId": "UCs5GnuB9y1pSWswQPLF2kXA",
+        "title": "Photographers NEED to Fail.",
+        "description": "Think it's so important to fail as a photographer. In fact, on today's vlog I fail a lot! The new drone: https://amzn.to/3dIX8D9 My Camera Gear: http://bit.ly/BvSGear ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ob92TNd2PSs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ob92TNd2PSs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ob92TNd2PSs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brendan van Son",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-18T14:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0GOcnhh3Kj4w8IfeQ-ZDpT1jOOQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8hnnaIxsgFg"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-11T14:00:01Z",
+        "channelId": "UCs5GnuB9y1pSWswQPLF2kXA",
+        "title": "STOP Trying to Sell Prints and Calendars!",
+        "description": "Selling your photography is hard. But, you need to stop trying to sell prints and calendars. Or, at least the way you're doing it. Join my photography seminar: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8hnnaIxsgFg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8hnnaIxsgFg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8hnnaIxsgFg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brendan van Son",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-11T14:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1aYkwbJyjli43uwt04m9zxxy5us",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_1imkJ3wryc"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-04T14:00:07Z",
+        "channelId": "UCs5GnuB9y1pSWswQPLF2kXA",
+        "title": "How to Be an Instagrammer in 2020",
+        "description": "How can you be an instagrammer in 2020? This is my step-by-step guide for photographers. My photography tiktok = brendanvanson The photo workshops: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_1imkJ3wryc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_1imkJ3wryc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_1imkJ3wryc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brendan van Son",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-04T14:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hv06xay9pYrjNujSw-pP9k5Eh1U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "T1eHiDFd6Yw"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-30T14:00:06Z",
+        "channelId": "UCs5GnuB9y1pSWswQPLF2kXA",
+        "title": "I ALMOST Gave Up",
+        "description": "This morning's photography vlog, well, I nearly gave up. Head to: http://www.squarespace.com/brendanvanson My Camera Gear: http://bit.ly/BvSGear ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T1eHiDFd6Yw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T1eHiDFd6Yw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T1eHiDFd6Yw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brendan van Son",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-30T14:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "08e0Jd_FULe4okaNcVeS7UQSr80",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qCUtJq0ztxU"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-29T14:00:08Z",
+        "channelId": "UCs5GnuB9y1pSWswQPLF2kXA",
+        "title": "9 Photography Mistakes (nearly) Everyone Makes",
+        "description": "There are a lot of photography mistakes out there. These are some nearly every photographer makes at some point. Photography Critiques: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qCUtJq0ztxU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qCUtJq0ztxU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qCUtJq0ztxU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brendan van Son",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-29T14:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ASnevWsE76LkhXiyhs1ndX2XNbM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mAe3TQOWdlk"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-27T14:00:06Z",
+        "channelId": "UCs5GnuB9y1pSWswQPLF2kXA",
+        "title": "Pretending to be a Travel Photographer",
+        "description": "What's life like as a travel photographer in 2020? Well, honestly, I think it's starting to feel like I'm not a travel photographer anymore. Find my photos on ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mAe3TQOWdlk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mAe3TQOWdlk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mAe3TQOWdlk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brendan van Son",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-27T14:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vnrHduj3Lh5XkWCNrYDODQxIzJU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DkyJJ9Yl2l0"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-24T14:00:03Z",
+        "channelId": "UCs5GnuB9y1pSWswQPLF2kXA",
+        "title": "Seascape Photography in Portugal",
+        "description": "Even with some epic seascape photo locations, sometimes, I struggle. Iceland Photography Trip: http://bit.ly/BvSIceland Sometimes the simple act of getting out ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DkyJJ9Yl2l0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DkyJJ9Yl2l0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DkyJJ9Yl2l0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brendan van Son",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-24T14:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QO008aCRv3nCEyVVF8XieYVNHi0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HIaxWFnlysc"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-17T14:00:01Z",
+        "channelId": "UCs5GnuB9y1pSWswQPLF2kXA",
+        "title": "Filters for Long Exposure Seascape Photography",
+        "description": "Check out all my filters: http://bit.ly/BvSGear Seascape photography is tricky. It takes a lot of skill, creativity, and also the right gear. I use a lot of filters for my long ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HIaxWFnlysc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HIaxWFnlysc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HIaxWFnlysc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brendan van Son",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-17T14:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lLUUAOUHXo4EM8uV4be3BVZD0DA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KPjvcbxJI1c"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-13T14:00:04Z",
+        "channelId": "UCs5GnuB9y1pSWswQPLF2kXA",
+        "title": "I&#39;ve Never Taken a Photo Like This Before",
+        "description": "Join an Online Photography Session: http://bit.ly/BvSTrips My Camera Gear: http://bit.ly/BvSGear Today's travel photography session was one that was totally ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KPjvcbxJI1c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KPjvcbxJI1c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KPjvcbxJI1c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brendan van Son",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-13T14:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-H_ra39IZjyFcV0wiC9wo0bdal4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6XJMfyTb6x0"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-06T14:05:53Z",
+        "channelId": "UCs5GnuB9y1pSWswQPLF2kXA",
+        "title": "Finally!!",
+        "description": "The Courses: https://www.brendansadventures.com/this-months-online-photography-workshops/ Jodie's Channel: http://www.youtube.com/alajode My Camera ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6XJMfyTb6x0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6XJMfyTb6x0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6XJMfyTb6x0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brendan van Son",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-06T14:05:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4X3fvRPx6e_nMthRtumbBSEbKIE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ONbeg7JUiZ4"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-01T14:00:08Z",
+        "channelId": "UCs5GnuB9y1pSWswQPLF2kXA",
+        "title": "My New Favourite Location in Portugal",
+        "description": "I've just found my new favourite photo location in Portugal! Visit: https://www.squarespace.com/brendanvanson My Camera Gear: http://bit.ly/BvSGear Portugal is ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ONbeg7JUiZ4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ONbeg7JUiZ4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ONbeg7JUiZ4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brendan van Son",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-01T14:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QxTp_xGwLeBurCx46S3TOCmrZng",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Cqiy4O15oqQ"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-28T14:00:02Z",
+        "channelId": "UCs5GnuB9y1pSWswQPLF2kXA",
+        "title": "Sometimes I Suck at Photography",
+        "description": "Landscape photography is a fun job, for sure. And with places like this you think making beautiful photos would be easy, right? SquareSpace: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Cqiy4O15oqQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Cqiy4O15oqQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Cqiy4O15oqQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brendan van Son",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-28T14:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_rKyCHWnumAnb6h1PvR-EJ_MYl0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7fBRcPi0Yrk"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-23T14:00:02Z",
+        "channelId": "UCs5GnuB9y1pSWswQPLF2kXA",
+        "title": "The Most Important Landscape Photography Composition Tip",
+        "description": "Landscape photography composition is much more tricky than you'd think. So on today's vlog I share my biggest tip for great landscape compositions.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7fBRcPi0Yrk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7fBRcPi0Yrk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7fBRcPi0Yrk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brendan van Son",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-23T14:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "j3Tv8sqJaCG_MGnXwHwcrB32kG4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8FfwNPP3AOA"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-16T15:34:46Z",
+        "channelId": "UCs5GnuB9y1pSWswQPLF2kXA",
+        "title": "How to Photograph the Milky Way",
+        "description": "This is a complete guide to how to photograph the Milky way. Amazingly, it's actually easier than you think. I hope this helps! Blog Post with Milky Way apps: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8FfwNPP3AOA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8FfwNPP3AOA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8FfwNPP3AOA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brendan van Son",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-16T15:34:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "m4qP36Ju9ZpI9cCv2tbhbevnZ2c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "__F3EesrsrE"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-12T15:04:10Z",
+        "channelId": "UCs5GnuB9y1pSWswQPLF2kXA",
+        "title": "The Best Travel Photos Take a Bit of Pain",
+        "description": "Travel photography is almost always a beautiful thing. But, making the best travel photos sometimes take a little bit more pain. You have to work for the best ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/__F3EesrsrE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/__F3EesrsrE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/__F3EesrsrE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brendan van Son",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-12T15:04:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TkgL98u6iR0H5737FSt79gtqoSs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hOD3FejK51U"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-09T15:00:24Z",
+        "channelId": "UCs5GnuB9y1pSWswQPLF2kXA",
+        "title": "Best Car for Photographers | Defender 90 TD5",
+        "description": "What's the best car for photographers? I actually don't know, but we just got a 1999 Land Rover Defender 90 and are going to love it! My Instagram: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hOD3FejK51U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hOD3FejK51U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hOD3FejK51U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brendan van Son",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-09T15:00:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "umuSL5FdKrU5lUgRvtVoQCM_hQU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "o70USiPRU6w"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-07T14:00:10Z",
+        "channelId": "UCs5GnuB9y1pSWswQPLF2kXA",
+        "title": "3 Legged Thing Bucky - Field Test &amp; Review",
+        "description": "I got my hands on a new tripod! This is the \"Bucky\" by 3 Legged Thing and on today's vlog I review and test it out in the field. The Tripod: https://amzn.to/2DuYiV1 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o70USiPRU6w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o70USiPRU6w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o70USiPRU6w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brendan van Son",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-07T14:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sYZH7kPPV1KHYasPYpGmlPRZkNI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GHwgx9wqiDQ"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-04T14:00:06Z",
+        "channelId": "UCs5GnuB9y1pSWswQPLF2kXA",
+        "title": "Photo Manipulation: Where&#39;s the Line?",
+        "description": "When it comes to doing photo editing, what's the line on digital manipulation in photography? I take a look at the line of photo editing in today's video.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GHwgx9wqiDQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GHwgx9wqiDQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GHwgx9wqiDQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brendan van Son",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-04T14:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "29YwS7Sz15_QBtkiT56JKiLXgQs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Fu3_y-QbLbM"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-02T14:37:49Z",
+        "channelId": "UCs5GnuB9y1pSWswQPLF2kXA",
+        "title": "Sunrise Photos + Secret Project",
+        "description": "I was up for some sunrise photography in Lagos, Portugal this morning. And then I broke the news on a secret project! My Camera Gear: http://bit.ly/BvSGear ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Fu3_y-QbLbM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Fu3_y-QbLbM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Fu3_y-QbLbM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brendan van Son",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-02T14:37:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "O-P80hf4B_zvmZOGFXZ-FHyYTL8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "V934KEPGNfo"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-31T14:00:07Z",
+        "channelId": "UCs5GnuB9y1pSWswQPLF2kXA",
+        "title": "Benagil Cave: Portugal&#39;s Coolest Photo Spot",
+        "description": "The Benagil Cave is one of the most popular places in Portugal's Algarve. Early this morning, I hopped in a kayak and paddled there for photography.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V934KEPGNfo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V934KEPGNfo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V934KEPGNfo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brendan van Son",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-31T14:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1nCnfA-FEHWD7Unu7OzUhH5x-Mo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MQKuo28t2yg"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-26T14:00:04Z",
+        "channelId": "UCs5GnuB9y1pSWswQPLF2kXA",
+        "title": "Planning Your Local Photography",
+        "description": "I've only been a local somewhere for a month. But already I've got a bunch of advice on how to plan your local photography trips. My Camera Gear: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MQKuo28t2yg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MQKuo28t2yg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MQKuo28t2yg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brendan van Son",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-26T14:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oWQUrXDyghpjJ7p_oXd0eKDyhB8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZJQIsIA9Jzo"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-23T14:00:08Z",
+        "channelId": "UCs5GnuB9y1pSWswQPLF2kXA",
+        "title": "Why I NEVER Do Sky Replacement Photography",
+        "description": "Sky replacement seems like the new trend in photography, and I really don't get it. I NEVER do sky replacement in my landscape photos. This is why.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZJQIsIA9Jzo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZJQIsIA9Jzo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZJQIsIA9Jzo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brendan van Son",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-23T14:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "c4-Lfr5HnHf9gC1Lo6RyCHRsddc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GDhWFtwU-xU"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-19T14:08:24Z",
+        "channelId": "UCs5GnuB9y1pSWswQPLF2kXA",
+        "title": "Why I Blend Photos",
+        "description": "I woke up for some sunrise photography but set the alarm clock wrong. So, I had to get creative with some photo blending. Blending Photos Tutorial: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GDhWFtwU-xU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GDhWFtwU-xU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GDhWFtwU-xU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brendan van Son",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-19T14:08:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wYlzTaPrwkw7BdNQamzYRA29IJo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KfktMH4PvdM"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-16T14:00:12Z",
+        "channelId": "UCs5GnuB9y1pSWswQPLF2kXA",
+        "title": "Travel Photography WITHOUT Tourists",
+        "description": "Travel photography is about creating the desire to travel. But, what happens to a travel photographer in a world without tourists? My Camera Gear: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KfktMH4PvdM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KfktMH4PvdM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KfktMH4PvdM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brendan van Son",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-16T14:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uEacladXwUi8LqwlrihxCzjsB04",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NVdS7P1mImg"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-12T14:00:05Z",
+        "channelId": "UCs5GnuB9y1pSWswQPLF2kXA",
+        "title": "Canon EOS R5 vs R6 Specs and Thoughts",
+        "description": "Canon announced the arrivals of the Canon EOS R5 and R6 this week. So, I wanted to drop down the R5 vs R6 specs and some thoughts. Online Photography ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NVdS7P1mImg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NVdS7P1mImg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NVdS7P1mImg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brendan van Son",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-12T14:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LaYPzjHg8IcO2k2DH9B56kgjI2s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gYFmlNN0AkI"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-09T14:00:14Z",
+        "channelId": "UCs5GnuB9y1pSWswQPLF2kXA",
+        "title": "Long Exposure Photography in BAD Light",
+        "description": "Long exposure photography has always kind of been my thing. But I often avoid \"bad\" light. Today, I embraced it. My Camera Gear: http://bit.ly/BvSGear Join me ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gYFmlNN0AkI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gYFmlNN0AkI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gYFmlNN0AkI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brendan van Son",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-09T14:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WMUlkJcT3CYA8Q8ei7A3iTjSLUA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NquzxTsHizs"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-05T14:00:05Z",
+        "channelId": "UCs5GnuB9y1pSWswQPLF2kXA",
+        "title": "Algarve, Portugal Landscape Photography",
+        "description": "In landscape photography, sometimes it's the easy photo location that is the hardest to capture right. I find that out on today's vlog. Memberships: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NquzxTsHizs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NquzxTsHizs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NquzxTsHizs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brendan van Son",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-05T14:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "y5Q_5ggiC8TN1C8eknURNo1HEww",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uRztJQCa3N4"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-02T14:00:16Z",
+        "channelId": "UCs5GnuB9y1pSWswQPLF2kXA",
+        "title": "SAFE Landscape Photography on EPIC cliffs",
+        "description": "How can you be safe doing landscape photography on dangerous cliffs? On today's vlog from Portugal, I explain. My Instagram: http://bit.ly/BvSInsta My Camera ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uRztJQCa3N4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uRztJQCa3N4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uRztJQCa3N4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brendan van Son",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-02T14:00:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "C2I3LJm-K7O86wvq9ILFk-ou2QU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VjtpqvD7X1A"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-28T14:00:16Z",
+        "channelId": "UCs5GnuB9y1pSWswQPLF2kXA",
+        "title": "Moving to Portugal",
+        "description": "I've immigrated to Portugal. So, why would a travel photographer move to Portugal? On today's video, I explain. SquareSpace: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VjtpqvD7X1A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VjtpqvD7X1A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VjtpqvD7X1A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brendan van Son",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-28T14:00:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1200S347TXBYl6BJrqAAm05Dcks",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6XLetHbSi48"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-25T14:00:01Z",
+        "channelId": "UCs5GnuB9y1pSWswQPLF2kXA",
+        "title": "Surf + Landscape Photography = Happy BvS",
+        "description": "Here in Portugal we've got it good. Landscape photography locations like crazy, and today I mixed in some surf photos as well. My Instagram: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6XLetHbSi48/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6XLetHbSi48/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6XLetHbSi48/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brendan van Son",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-25T14:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1hFQVJCO9jUxJdpfd-Ww23c_NuY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dRIbNilDEm0"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-21T14:00:09Z",
+        "channelId": "UCs5GnuB9y1pSWswQPLF2kXA",
+        "title": "Struggling with Sunrise Photography",
+        "description": "Sunrise landscape photography is my happy place. But, it's not always easy. On today's vlog from Portugal, I run into some issues. My Instagram: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dRIbNilDEm0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dRIbNilDEm0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dRIbNilDEm0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brendan van Son",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-21T14:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KDH-zVAFDmC52B_rCm7ag8lqC5Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "c_cO09q-HV8"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-18T14:00:21Z",
+        "channelId": "UCs5GnuB9y1pSWswQPLF2kXA",
+        "title": "Landscape Photography and Portugal Apartment Tour",
+        "description": "On today's vlog, some landscape photography here in Portugal, and then a tour of our new apartment. My Instagram: http://bit.ly/BvSInsta My Camera Gear: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c_cO09q-HV8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c_cO09q-HV8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c_cO09q-HV8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brendan van Son",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-18T14:00:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GBnxcC8JEtJuniEtOvL9t00W7aE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-zGaG77qsn8"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-14T14:00:01Z",
+        "channelId": "UCs5GnuB9y1pSWswQPLF2kXA",
+        "title": "Photography Re-Starts. Nomadic Life Ends.",
+        "description": "While I'm back to doing photography, nomadic life has ended. It's the end of an era for this travel photographer, and it feels pretty good. My Instagram: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-zGaG77qsn8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-zGaG77qsn8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-zGaG77qsn8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brendan van Son",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-14T14:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_EzIlEtXTapXFnb7MJgqjlD44Bg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jVHr5_GjhTQ"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-07T14:00:23Z",
+        "channelId": "UCs5GnuB9y1pSWswQPLF2kXA",
+        "title": "I Walked 40,000 Steps for ONE Photo",
+        "description": "I walked over 40000 steps in the UK for one photo. Essentially, this bit of travel photography was all about discovery, and sore feet - apparently. SquareSpace: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jVHr5_GjhTQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jVHr5_GjhTQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jVHr5_GjhTQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brendan van Son",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-07T14:00:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pcZaGn9EquJht58CJs3DqCzZWms",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ijXxnC2Lni0"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-31T14:30:05Z",
+        "channelId": "UCs5GnuB9y1pSWswQPLF2kXA",
+        "title": "The Future of Travel Photography",
+        "description": "On today's video, I sit down and answer some questions relating life and photography. In particular, the future of travel photography. The Photo Group: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ijXxnC2Lni0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ijXxnC2Lni0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ijXxnC2Lni0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brendan van Son",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-31T14:30:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZOxtkIYXXl9CxQghtBQJ5lhunsQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8P7FZcjfezM"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-28T14:06:27Z",
+        "channelId": "UCs5GnuB9y1pSWswQPLF2kXA",
+        "title": "Minimalist Long Exposure Photography",
+        "description": "You don't need to travel far to do some minimalist long exposure photography, there's options right in your backyard. SquareSpace: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8P7FZcjfezM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8P7FZcjfezM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8P7FZcjfezM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brendan van Son",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-28T14:06:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "m0KvvueHjBAP0Bx3OIstgqOz1Ig",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SXrzjkIZgGw"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-24T14:00:23Z",
+        "channelId": "UCs5GnuB9y1pSWswQPLF2kXA",
+        "title": "Bird Photography in the UK",
+        "description": "I can't remember the last time I went out specifically for bird photography. But on today's photo vlog, I'm looking for wildlife on the 100-400mm. My Camera Gear: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SXrzjkIZgGw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SXrzjkIZgGw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SXrzjkIZgGw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brendan van Son",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-24T14:00:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vUcE6hZ2zeH81ljIUWK1Dj0c98o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HQlfjAQUKZU"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-20T14:00:09Z",
+        "channelId": "UCs5GnuB9y1pSWswQPLF2kXA",
+        "title": "Canon EOS RP Review 1 Year Later",
+        "description": "I have a review of the Canon EOS RP today. It's been a year since I've had the RP and have been using this camera nearly every day for a year. My Instagram: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HQlfjAQUKZU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HQlfjAQUKZU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HQlfjAQUKZU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brendan van Son",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-20T14:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zX3Mr3n3hfSWcT4iCJzbepADiNU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1NwrP4NQNPY"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-17T14:00:00Z",
+        "channelId": "UCs5GnuB9y1pSWswQPLF2kXA",
+        "title": "When Can I Do PHOTOGRAPHY Again? NOW!",
+        "description": "Wahoo! I've been asking when can I do photography again for 60 days now. The answer is now. Some landscape photography on today's vlog! My Instagram: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1NwrP4NQNPY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1NwrP4NQNPY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1NwrP4NQNPY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brendan van Son",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-17T14:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Gvm-1OYbUUZQ3l34gaUdVybRrbc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HVyNmVEgOBw"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-10T14:06:57Z",
+        "channelId": "UCs5GnuB9y1pSWswQPLF2kXA",
+        "title": "Photography in Lockdown or Isolation",
+        "description": "OK, so I'm on lockdown in the UK. So, I thought I'd do a video showing you how to do photography in lockdown. Some photography in isolation on today's vlog.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HVyNmVEgOBw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HVyNmVEgOBw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HVyNmVEgOBw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brendan van Son",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-10T14:06:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wIREtwODyWwaScRu22rttz7XRdE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3QUwMYFO7Ck"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-03T14:00:04Z",
+        "channelId": "UCs5GnuB9y1pSWswQPLF2kXA",
+        "title": "Turn Any Canon Camera into a Webcam",
+        "description": "Lots of people are trying to get better webcam video for their Zoom business meetings, I'm going to show you how to get the best webcam set up today. How to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3QUwMYFO7Ck/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3QUwMYFO7Ck/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3QUwMYFO7Ck/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brendan van Son",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-03T14:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eRq7qQLsowReBImOCo8aHLR4gMQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1Roh8qCl5CM"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-26T13:00:00Z",
+        "channelId": "UCs5GnuB9y1pSWswQPLF2kXA",
+        "title": "My Lightroom Editing Process and Tips",
+        "description": "I'm sharing my Adobe Lightroom editing process and some Lightroom tips for photography on today's video. SquareSpace: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1Roh8qCl5CM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1Roh8qCl5CM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1Roh8qCl5CM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brendan van Son",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-26T13:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TZnifXRzDTIrBgWJdZtM_61erQ4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RAyxsrqwuIU"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-15T13:00:12Z",
+        "channelId": "UCs5GnuB9y1pSWswQPLF2kXA",
+        "title": "The NiSi Switch: The Filter Holder You Didn&#39;t Know You Needed!",
+        "description": "Today I review the NiSi Switch photography filter system, a review that's taken me 6 months to put together! My Gallery: https://bit.ly/BvSPrints The NiSi Switch ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RAyxsrqwuIU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RAyxsrqwuIU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RAyxsrqwuIU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brendan van Son",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-15T13:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LZWzWFjrwh7Nm1CzhPlj1bfLPCA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "acBBTHNDY_A"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-08T13:00:02Z",
+        "channelId": "UCs5GnuB9y1pSWswQPLF2kXA",
+        "title": "A Classic BvS Travel Vlog",
+        "description": "This is the story of how we got out of Morocco despite the borders being closed. A bit of a classic BvS travel vlog in these crazy times. My Instagram: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/acBBTHNDY_A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/acBBTHNDY_A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/acBBTHNDY_A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brendan van Son",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-08T13:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "W_Lsiwbfn_VJmLBSYbCkoaMuZNg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BLZDyv5OGO8"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-05T13:00:10Z",
+        "channelId": "UCs5GnuB9y1pSWswQPLF2kXA",
+        "title": "A HUGE Tip for Black and White Photography",
+        "description": "Black and White Photography is hard. But, I think I've the best trick for really good B&W photography, and it's simpler than you realized. Squarespace: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BLZDyv5OGO8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BLZDyv5OGO8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BLZDyv5OGO8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brendan van Son",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-05T13:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pQGl9vtcm_agY7paaU9BpkTxS60",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "c5O-5Jit1_g"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-31T13:00:11Z",
+        "channelId": "UCs5GnuB9y1pSWswQPLF2kXA",
+        "title": "Photography Tips for When you Can&#39;t do Photography",
+        "description": "Some photography tips for when you're stuck indoors and can't get out of your house to make photos. SquareSpace: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c5O-5Jit1_g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c5O-5Jit1_g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c5O-5Jit1_g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brendan van Son",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-31T13:00:11Z"
+      }
+    }
+  ]
+}

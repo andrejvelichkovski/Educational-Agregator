@@ -1,0 +1,1712 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "NdgsyhHZK-YbCAxICbYxd_XYBpk",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "MK",
+  "pageInfo": {
+    "totalResults": 826,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vN_YgLOymDwRdyv-KQmZJUKu5JI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Jcd07Fndqus"
+      },
+      "snippet": {
+        "publishedAt": "2020-11-03T19:00:34Z",
+        "channelId": "UC0vBXGSyV14uvJ4hECDOl0Q",
+        "title": "Do TVs Suck As Monitors?",
+        "description": "Get 50% off your first 3 months of FreshBooks when you sign up for a paid plan at https://www.freshbooks.com/techquickie What is chroma subsampling and why ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Jcd07Fndqus/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Jcd07Fndqus/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Jcd07Fndqus/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Techquickie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-11-03T19:00:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OWSJxjHXBBTzKHlxRTTNlnFe4So",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bgl01Nl3OEk"
+      },
+      "snippet": {
+        "publishedAt": "2020-11-01T19:18:53Z",
+        "channelId": "UC0vBXGSyV14uvJ4hECDOl0Q",
+        "title": "Do You Need A SPECIAL CPU for VR?",
+        "description": "Thanks to Oculus for sponsoring this video! Learn more about their new Oculus Quest 2 at http://ocul.us/Techquickie2020 #OculusPartner #OculusQuest2 Is ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bgl01Nl3OEk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bgl01Nl3OEk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bgl01Nl3OEk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Techquickie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-11-01T19:18:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KcXIhH-HYAnsd4uLreiRcAEm2rA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "evMgf_NfqqE"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-30T16:57:57Z",
+        "channelId": "UC0vBXGSyV14uvJ4hECDOl0Q",
+        "title": "AMD Fires Back! - Radeon RX 6000",
+        "description": "Grab the DROP + HIFIMAN 5XX Headphones at https://dro.ps/techquickie-5xx Is AMD's new Radeon RDNA2/RX 6000 lineup ready to go toe-to-toe with Nvidia?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/evMgf_NfqqE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/evMgf_NfqqE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/evMgf_NfqqE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Techquickie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-30T16:57:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "U_KP8Ag7jLJT06XcCYtub4eCtW8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LO3SlqqgLIU"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-28T06:55:08Z",
+        "channelId": "UC0vBXGSyV14uvJ4hECDOl0Q",
+        "title": "Should YOU Buy The iPhone 12?",
+        "description": "Check out Pulseway's Techathlon Tech Quiz night, featuring Linus at https://lmg.gg/pulsewaywebinar Buy iPhone 12 On Amazon (PAID LINK): ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LO3SlqqgLIU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LO3SlqqgLIU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LO3SlqqgLIU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Techquickie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-28T06:55:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "u2haaj6p6ibRiGd4b8GVe7ZCNvw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sKHrLA2whNo"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-23T17:03:22Z",
+        "channelId": "UC0vBXGSyV14uvJ4hECDOl0Q",
+        "title": "A Farewell To SLI",
+        "description": "Get 30% OFF your first bag of coffee with Trade Coffee when you click here http://cen.yt/tradetechquickie How did SLI and Crossfire get started, and are we ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sKHrLA2whNo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sKHrLA2whNo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sKHrLA2whNo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Techquickie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-23T17:03:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "L_UmOM703FL4PULJjLmpIiZCtrY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "x4sS_piqQzY"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-20T18:00:06Z",
+        "channelId": "UC0vBXGSyV14uvJ4hECDOl0Q",
+        "title": "Can You Actually Put Your PC In A Fridge?",
+        "description": "Play World of Tanks for free at https://tanks.ly/2RBBrve New players will receive 500 gold, 7 days premium time, and a T-127 by using my code TANKTASTIC.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x4sS_piqQzY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x4sS_piqQzY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x4sS_piqQzY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Techquickie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-20T18:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MZ8Fawso6Qx2sQ4PvuuKxacniSc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "p34FwjEZfOc"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-16T16:59:20Z",
+        "channelId": "UC0vBXGSyV14uvJ4hECDOl0Q",
+        "title": "Will Nvidia Chips Be Inside Everything?",
+        "description": "Buy the CORSAIR 4000D at https://geni.us/txnWf Why did Nvidia buy Arm? Leave a reply with your requests for future episodes, or tweet them here: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p34FwjEZfOc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p34FwjEZfOc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p34FwjEZfOc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Techquickie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-16T16:59:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rqW_McxtPLWna8-hDy0VMAHraD0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oOwpzx4hZuc"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-12T19:42:32Z",
+        "channelId": "UC0vBXGSyV14uvJ4hECDOl0Q",
+        "title": "Why Are Phones All The Same Shape?",
+        "description": "Learn through problem-solving, and the first 200 people can save 20% today on Brilliant at https://brilliant.org/Techquickie/ Why are phones virtually all ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oOwpzx4hZuc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oOwpzx4hZuc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oOwpzx4hZuc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Techquickie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-12T19:42:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "f2tQxK14XW63aUTIbRpZ6e-TO30",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3zhLSCj4AwA"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-09T17:05:23Z",
+        "channelId": "UC0vBXGSyV14uvJ4hECDOl0Q",
+        "title": "Why Is The NVIDIA Titan Even A Thing?",
+        "description": "Play World of Warships for free: http://bit.ly/2Sd01n6 New players will receive 1 million credits, the USS Charleston, 3 days premium time, and more by using my ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3zhLSCj4AwA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3zhLSCj4AwA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3zhLSCj4AwA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Techquickie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-09T17:05:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DYvkpFEywTB2oAxWS1ChV2-Fdi4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zXV3jrwkv0I"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-06T18:00:06Z",
+        "channelId": "UC0vBXGSyV14uvJ4hECDOl0Q",
+        "title": "How A Console Could BEAT Your PC",
+        "description": "Learn through problem solving, and the first 200 people can save 20% today on Brilliant at https://brilliant.org/Techquickie/ Learn about how the Xbox Series X ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zXV3jrwkv0I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zXV3jrwkv0I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zXV3jrwkv0I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Techquickie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-06T18:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "V1Txisu7c8ijhtqmE6iwfHlDcwY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VOriIiicMs4"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-02T18:02:44Z",
+        "channelId": "UC0vBXGSyV14uvJ4hECDOl0Q",
+        "title": "How Your Next Phone Will Get Leaked",
+        "description": "Check out the new Drop x Sennheiser PC38X at https://dro.ps/tq-0920-pc38x How do tech leaks happen? Leave a reply with your requests for future episodes, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VOriIiicMs4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VOriIiicMs4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VOriIiicMs4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Techquickie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-02T18:02:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PVWA3y6QY9FLvt-Ech7I9uv6AEE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5n-0TByKOPc"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-25T17:00:01Z",
+        "channelId": "UC0vBXGSyV14uvJ4hECDOl0Q",
+        "title": "Should You Put TWO CPUs In Your PC?",
+        "description": "Check out CORSAIR's Vengeance a4100 Streamer PC at https://geni.us/EaKZt Why aren't dual-CPU setups more common? Leave a reply with your requests for ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5n-0TByKOPc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5n-0TByKOPc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5n-0TByKOPc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Techquickie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-25T17:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6_FGKOT-YjU9riHBc8-pc5hkD-I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HQpop14kpLo"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-22T18:32:15Z",
+        "channelId": "UC0vBXGSyV14uvJ4hECDOl0Q",
+        "title": "Why Handheld Gaming is DISAPPEARING",
+        "description": "Sign up for Private Internet Access VPN at https://www.privateinternetaccess.com/TechQuickie What happened to all the dedicated handheld video game ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HQpop14kpLo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HQpop14kpLo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HQpop14kpLo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Techquickie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-22T18:32:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "imvK9AGS6AqLSwNq8MPq30q377s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lBpXs3B1es8"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-18T18:00:11Z",
+        "channelId": "UC0vBXGSyV14uvJ4hECDOl0Q",
+        "title": "Intel&#39;s Mad Scientist CPU!",
+        "description": "Sign up for Private Internet Access VPN at https://www.privateinternetaccess.com/TechQuickie Buy Ryzen Threadripper On Amazon (PAID LINK): ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lBpXs3B1es8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lBpXs3B1es8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lBpXs3B1es8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Techquickie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-18T18:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AwmBJB8rwOviOt4JU8d8GOB260A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XRT9jYrPxgY"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-16T18:02:25Z",
+        "channelId": "UC0vBXGSyV14uvJ4hECDOl0Q",
+        "title": "Why Are There SO MANY Graphics Card Makers?",
+        "description": "Learn through problem solving, and the first 200 people can save 20% today on Brilliant at https://brilliant.org/Techquickie/ On Amazon (PAID LINK): ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XRT9jYrPxgY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XRT9jYrPxgY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XRT9jYrPxgY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Techquickie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-16T18:02:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6QHY2y7ZKXSWOHOwb2sqHLtZMrs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7dZwru1ujgo"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-11T17:07:17Z",
+        "channelId": "UC0vBXGSyV14uvJ4hECDOl0Q",
+        "title": "STRONGER Phone Screens Are HERE",
+        "description": "Get 50% off your first 3 months of FreshBooks when you sign up for a paid plan at https://www.freshbooks.com/techquickie Learn about how phone glass is ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7dZwru1ujgo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7dZwru1ujgo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7dZwru1ujgo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Techquickie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-11T17:07:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "e3IEFKYvonXu02ZwYo5bhw9FSnE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Z3auLJtDb7s"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-09T18:09:46Z",
+        "channelId": "UC0vBXGSyV14uvJ4hECDOl0Q",
+        "title": "Is COOLING Your SSD A MISTAKE?",
+        "description": "Sign up for Private Internet Access VPN at https://www.privateinternetaccess.com/TechQuickie Can putting a heatsink on your SSD shorten its lifespan? Leave a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Z3auLJtDb7s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Z3auLJtDb7s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z3auLJtDb7s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Techquickie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-09T18:09:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "e1fMf5hD5s8lVu-35CZtBWR77-A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6wFuNgW3Z_M"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-04T17:00:08Z",
+        "channelId": "UC0vBXGSyV14uvJ4hECDOl0Q",
+        "title": "The Most ANNOYING Thing About Laptops",
+        "description": "Learn through problem solving, and the first 200 people can save 20% today on Brilliant at https://brilliant.org/Techquickie/ Why haven't laptop chargers been ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6wFuNgW3Z_M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6wFuNgW3Z_M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6wFuNgW3Z_M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Techquickie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-04T17:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "flZFgqRFeiuHIOkgZAldkVCyB3o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uGX5wgFCk7M"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-01T18:00:00Z",
+        "channelId": "UC0vBXGSyV14uvJ4hECDOl0Q",
+        "title": "Could Windows Keep Your Gear Working FOREVER?",
+        "description": "Get 50% off your first 3 months of FreshBooks when you sign up for a paid plan at https://www.freshbooks.com/techquickie If Windows 10 is the \"last version of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uGX5wgFCk7M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uGX5wgFCk7M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uGX5wgFCk7M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Techquickie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-01T18:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2b-_h65CiHVZ4jHNhAmI5wEuPdU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jxZD2QdutEc"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-28T17:00:00Z",
+        "channelId": "UC0vBXGSyV14uvJ4hECDOl0Q",
+        "title": "The Internet Is COMPLETELY Changing",
+        "description": "Sign up for Private Internet Access VPN at https://www.privateinternetaccess.com/TechQuickie Buy NVIDIA GeForce RTX 2070 Super Founders Edition On ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jxZD2QdutEc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jxZD2QdutEc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jxZD2QdutEc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Techquickie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-28T17:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5GLh18HTKODps-jl4x8zmp4AH1E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jMRNYwhDkOU"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-25T18:00:11Z",
+        "channelId": "UC0vBXGSyV14uvJ4hECDOl0Q",
+        "title": "Are BULKY Chargers Going Away?",
+        "description": "Sign up for Private Internet Access VPN at https://www.privateinternetaccess.com/TechQuickie What are the advantages of new gallium nitride chargers?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jMRNYwhDkOU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jMRNYwhDkOU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jMRNYwhDkOU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Techquickie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-25T18:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RVKGEgjJvM-EDUVGTan2eo-qtG0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PYnkUWtwXfc"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-21T17:45:04Z",
+        "channelId": "UC0vBXGSyV14uvJ4hECDOl0Q",
+        "title": "Why do Programs Leave JUNK Behind??",
+        "description": "Learn through problem solving, and the first 200 people can save 20% today on Brilliant at https://brilliant.org/Techquickie/ Why do programs never seem to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PYnkUWtwXfc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PYnkUWtwXfc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PYnkUWtwXfc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Techquickie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-21T17:45:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CSYh1ZG3nGDOGlE618bmmsdHB1M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8JAWz9Da5og"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-18T18:00:01Z",
+        "channelId": "UC0vBXGSyV14uvJ4hECDOl0Q",
+        "title": "Why Don&#39;t They Make BIGGER CPUs?",
+        "description": "Sign up for Private Internet Access VPN at https://www.privateinternetaccess.com/TechQuickie Would larger CPUs help performance? Leave a reply with your ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8JAWz9Da5og/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8JAWz9Da5og/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8JAWz9Da5og/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Techquickie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-18T18:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9bXNED0idbF6mWH_eMiuMjpItVQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BY7-sECF3Dw"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-14T14:30:01Z",
+        "channelId": "UC0vBXGSyV14uvJ4hECDOl0Q",
+        "title": "Is YOUR Laptop Too Hot?",
+        "description": "Learn through problem solving, and the first 200 people can save 20% today on Brilliant at https://brilliant.org/Techquickie/ What are safe temperature ranges for ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BY7-sECF3Dw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BY7-sECF3Dw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BY7-sECF3Dw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Techquickie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-14T14:30:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UzZfqiYwmQF7nAlbGaS7W8amztY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZA47U8hAD_E"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-11T15:00:45Z",
+        "channelId": "UC0vBXGSyV14uvJ4hECDOl0Q",
+        "title": "Can Memory DAMAGE Your CPU?",
+        "description": "Get the Massdrop PC37X at https://dro.ps/tq-aug20-pc37x Buy GSkill Ripjaws V On Amazon (PAID LINK): https://geni.us/xyOTqR On Newegg (PAID LINK): ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZA47U8hAD_E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZA47U8hAD_E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZA47U8hAD_E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Techquickie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-11T15:00:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4OokXxe8gAsMFCu-x386iit424o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8XyDoXB0wQ0"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-07T14:00:01Z",
+        "channelId": "UC0vBXGSyV14uvJ4hECDOl0Q",
+        "title": "Why Do We Use Ctrl-Alt-Delete?",
+        "description": "Learn more about MSI's MAG Core Liquid 240R AIO at https://geni.us/Un1gd3 Where did our modern keyboard shortcuts come from? Leave a reply with your ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8XyDoXB0wQ0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8XyDoXB0wQ0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8XyDoXB0wQ0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Techquickie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-07T14:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "f4z58jubd7ItJSy4H-4T-Mpas7A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JzaL2O3bSgU"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-04T15:42:54Z",
+        "channelId": "UC0vBXGSyV14uvJ4hECDOl0Q",
+        "title": "How To Fix THESE Errors",
+        "description": "Sign up for Private Internet Access VPN at https://www.privateinternetaccess.com/TechQuickie What should you do about these common Windows error ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JzaL2O3bSgU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JzaL2O3bSgU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JzaL2O3bSgU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Techquickie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-04T15:42:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vLXkd0cvitNPo5FSDE_r-pfzr6k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "79BQJE12bVc"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-31T13:59:59Z",
+        "channelId": "UC0vBXGSyV14uvJ4hECDOl0Q",
+        "title": "Can You Overclock a LOCKED CPU?",
+        "description": "Learn more about Storyblocks Video at https://www.storyblocks.com/techquickie Is there a way to adjust your CPU's clock speed even if it has a locked multiplier ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/79BQJE12bVc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/79BQJE12bVc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/79BQJE12bVc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Techquickie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-31T13:59:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "leKYyyOx8EsWZHsCSW3jM2vYoU8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dn7jdyi_ibY"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-28T17:00:56Z",
+        "channelId": "UC0vBXGSyV14uvJ4hECDOl0Q",
+        "title": "Is TikTok a THREAT?",
+        "description": "Sign up for Private Internet Access VPN at https://www.privateinternetaccess.com/TechQuickie Does TikTok pose a real risk to your privacy? Leave a reply with ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dn7jdyi_ibY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dn7jdyi_ibY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dn7jdyi_ibY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Techquickie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-28T17:00:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ctK1LgvDdeixwnFyv0JjIZR3iqs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XrohKwqSFr0"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-24T17:00:09Z",
+        "channelId": "UC0vBXGSyV14uvJ4hECDOl0Q",
+        "title": "How To Install ANDROID on an iPhone",
+        "description": "Sign up for Private Internet Access VPN at https://www.privateinternetaccess.com/TechQuickie Is it possible to get Android working on an iPhone? Leave a reply ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XrohKwqSFr0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XrohKwqSFr0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XrohKwqSFr0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Techquickie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-24T17:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "72FX1vxhAKvP5l6ETArCS_YcVoY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3zMfxOCkm9k"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-21T17:07:07Z",
+        "channelId": "UC0vBXGSyV14uvJ4hECDOl0Q",
+        "title": "Chrome REALLY Messed Up...",
+        "description": "Pre-Order the DROP THX Panda Wireless headphones today at https://dro.ps/tq-july20-panda Are serious threats lurking inside Chrome extensions? Leave a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3zMfxOCkm9k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3zMfxOCkm9k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3zMfxOCkm9k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Techquickie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-21T17:07:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Kvsq0ZiIi2_0m27qFuPTrn5cv14",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "m9W0pmbsYNM"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-17T17:00:00Z",
+        "channelId": "UC0vBXGSyV14uvJ4hECDOl0Q",
+        "title": "Apple Is MAKING Desktop CPUs!",
+        "description": "Get iFixit's Pro Tech Toolkit now for only $64.99 USD at https://www.ifixit.com/linus Learn about Apple's own ARM-based CPUs that will be replacing Intel chips ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m9W0pmbsYNM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m9W0pmbsYNM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m9W0pmbsYNM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Techquickie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-17T17:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "06ThVIFjgouZqZmd7u0ZnUP5RCE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6MNe_-xPu_E"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-14T18:21:38Z",
+        "channelId": "UC0vBXGSyV14uvJ4hECDOl0Q",
+        "title": "Why Windows Asks You THIS Question",
+        "description": "Learn through problem-solving, and the first 200 people can save 20% today on Brilliant at https://brilliant.org/Techquickie/ Should you tell Windows to make ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6MNe_-xPu_E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6MNe_-xPu_E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6MNe_-xPu_E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Techquickie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-14T18:21:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YiyZLBpGJJG3xyM_vbWfn-rS2iU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "p4vZb-prIto"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-10T17:06:38Z",
+        "channelId": "UC0vBXGSyV14uvJ4hECDOl0Q",
+        "title": "When Is Wi-Fi NOT The Answer?",
+        "description": "Sign up for Private Internet Access VPN at https://www.privateinternetaccess.com/TechQuickie What are Zigbee and Z-Wave? Buy Ecolink Z-Wave PIR Motion ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p4vZb-prIto/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p4vZb-prIto/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p4vZb-prIto/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Techquickie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-10T17:06:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rOGt7DqZqDlI57j3b8t9jgOfAHc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zEtzITaWbcE"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-07T17:11:52Z",
+        "channelId": "UC0vBXGSyV14uvJ4hECDOl0Q",
+        "title": "Chrome Is Changing In A BIG Way",
+        "description": "Get 20% OFF + Free Shipping at Manscaped.com with code TQ20 - https://mnscpd.com/TECH Why is Google Chrome ditching full URLs? Leave a reply with ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zEtzITaWbcE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zEtzITaWbcE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zEtzITaWbcE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Techquickie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-07T17:11:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "W3bw300HigLPVHnGrvSfWp4sf3A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kUcbBrV23B4"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-03T17:18:30Z",
+        "channelId": "UC0vBXGSyV14uvJ4hECDOl0Q",
+        "title": "What&#39;s With This WEIRD Russian CPU?",
+        "description": "Learn through problem solving, and the first 200 people can save 20% today on Brilliant at https://brilliant.org/Techquickie/ Learn all about Elbrus, the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kUcbBrV23B4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kUcbBrV23B4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kUcbBrV23B4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Techquickie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-03T17:18:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wd1MXcKXhFJbT2zWXj7OKD0EZoM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "I27iSmBXZ0o"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-30T17:03:00Z",
+        "channelId": "UC0vBXGSyV14uvJ4hECDOl0Q",
+        "title": "Why Does Intel Keep Having Problems?",
+        "description": "Thanks, BitDefender for sponsoring today's video! Enter their giveaway at https://lmg.gg/owt73 (US & Canada) Intel processors seem to keep having security ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I27iSmBXZ0o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I27iSmBXZ0o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I27iSmBXZ0o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Techquickie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-30T17:03:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1AzbJm0yS4mb4pNYcY3ZDi9O3h8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OmtaNmZQ7W4"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-26T17:02:12Z",
+        "channelId": "UC0vBXGSyV14uvJ4hECDOl0Q",
+        "title": "The Simple Thing That WRECKS Your Phone",
+        "description": "Check out the Massdrop x Sennheiser HD 58X at https://dro.ps/tq-june20-hd58x How can a simple text or image make your phone crash, or even force you to do ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OmtaNmZQ7W4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OmtaNmZQ7W4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OmtaNmZQ7W4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Techquickie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-26T17:02:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "92Heb7BY6shIarSJsI4gppRe3OA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ROS008Av4E4"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-24T17:00:07Z",
+        "channelId": "UC0vBXGSyV14uvJ4hECDOl0Q",
+        "title": "Should You Believe CPU Marketing?",
+        "description": "Get 20% OFF + Free Shipping at Manscaped.com with code TQ20 - https://mnscpd.com/TECH Buy an Intel CPU On Amazon (PAID LINK): https://geni.us/fTX9BJ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ROS008Av4E4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ROS008Av4E4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ROS008Av4E4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Techquickie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-24T17:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "p-7qcFzVDPTrrk3W1He2BflsJm8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Hse-noIHKcE"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-19T17:26:58Z",
+        "channelId": "UC0vBXGSyV14uvJ4hECDOl0Q",
+        "title": "All HDMI Cables Are NOT The Same!",
+        "description": "Learn through problem solving, and the first 200 people can save 20% today on Brilliant at https://brilliant.org/Techquickie/ Here's what to look for when buying ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Hse-noIHKcE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Hse-noIHKcE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Hse-noIHKcE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Techquickie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-19T17:26:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GuHWJx2DkFF4gnSN4-wARs-vrwA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JGxWWvkOl98"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-16T17:26:51Z",
+        "channelId": "UC0vBXGSyV14uvJ4hECDOl0Q",
+        "title": "TWO Graphics Cards in ONE Slot?!",
+        "description": "Sign up for Private Internet Access VPN at https://lmg.gg/piatechquickie How does PCI Express bifurcation work? Buy an NVIDIA GPU On Amazon (PAID LINK): ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JGxWWvkOl98/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JGxWWvkOl98/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JGxWWvkOl98/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Techquickie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-16T17:26:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6F4kJlDcsGj6IYVAq6Q-c8WvIkM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DIBtZfKfaMk"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-12T16:12:27Z",
+        "channelId": "UC0vBXGSyV14uvJ4hECDOl0Q",
+        "title": "Why CPU Sockets CHANGE So Much",
+        "description": "Sign up for Private Internet Access VPN at https://lmg.gg/piatechquickie Is it all a big conspiracy to get you to keep spending money on new motherboards, or is ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DIBtZfKfaMk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DIBtZfKfaMk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DIBtZfKfaMk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Techquickie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-12T16:12:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "miVfbOnitM47y_NCtXavf0l7U6g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "v0QkafslnrM"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-09T17:43:24Z",
+        "channelId": "UC0vBXGSyV14uvJ4hECDOl0Q",
+        "title": "Data Recovery Services",
+        "description": "Thanks to DriveSavers for sponsoring this video! Use code TECHQUICKIE to get 5% off DriveSavers receovery services at https://geni.us/4SrK How does data ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v0QkafslnrM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v0QkafslnrM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v0QkafslnrM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Techquickie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-09T17:43:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GWwSDD6jCZOPkOhK2wEvAqJYdEg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aaL7owZmbEA"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-05T17:22:35Z",
+        "channelId": "UC0vBXGSyV14uvJ4hECDOl0Q",
+        "title": "The BIG Problem With Anti-Cheat",
+        "description": "Learn through problem solving, and the first 200 people can save 20% today on Brilliant at https://brilliant.org/Techquickie/ Why is anti-cheat software causing so ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aaL7owZmbEA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aaL7owZmbEA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aaL7owZmbEA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Techquickie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-05T17:22:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EgniQq8IZ5_MT9ZZmtptjOL5izI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "af6pKbdKugQ"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-02T16:58:27Z",
+        "channelId": "UC0vBXGSyV14uvJ4hECDOl0Q",
+        "title": "Why Loud Audio SUCKS",
+        "description": "Play World of Tanks for free at https://tanks.ly/31418rD New players will receive 500 gold, 7 days premium time, and a T-127 by using the code TANKTASTIC.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/af6pKbdKugQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/af6pKbdKugQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/af6pKbdKugQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Techquickie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-02T16:58:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cBNW-8P3N_Z08m55En7pknTWPAs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vvdCgJ-7EIM"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-01T00:37:43Z",
+        "channelId": "UC0vBXGSyV14uvJ4hECDOl0Q",
+        "title": "You&#39;ll Never See This Coming...",
+        "description": "Thanks to Bitdefender for sponsoring today's video! Enter their giveaway at https://lmg.gg/owt73 (US & Canada) What are zero-day attacks, and why are they so ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vvdCgJ-7EIM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vvdCgJ-7EIM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vvdCgJ-7EIM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Techquickie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-01T00:37:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "r0ml6Y2zmMEGoX_eG5zBMuoodLY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "E4lZrqUSUuU"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-29T17:22:41Z",
+        "channelId": "UC0vBXGSyV14uvJ4hECDOl0Q",
+        "title": "The END of E3?",
+        "description": "Get iFixit's Pro Tech Toolkit at https://ifixit.com/techquickie Is one of gaming's biggest events in trouble? Leave a reply with your requests for future episodes, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E4lZrqUSUuU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E4lZrqUSUuU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E4lZrqUSUuU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Techquickie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-29T17:22:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rPFFU8IucBWwI9hLPjmPYGj4-Xk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wxS_DTo2nUI"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-26T16:58:08Z",
+        "channelId": "UC0vBXGSyV14uvJ4hECDOl0Q",
+        "title": "Your Graphics Card Just Got SMARTER",
+        "description": "Get 50% off your first 3 months of FreshBooks when you sign up for a paid plan at https://www.freshbooks.com/techquickie What should you know about Nvidia's ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wxS_DTo2nUI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wxS_DTo2nUI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wxS_DTo2nUI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Techquickie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-26T16:58:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7Qhlw4hZ6yeT_4crWD6Kru20O6M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QDpsVVJXYAs"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-22T17:20:16Z",
+        "channelId": "UC0vBXGSyV14uvJ4hECDOl0Q",
+        "title": "Graphics Card Settings You Should Change",
+        "description": "The first 200 people who head to https://brilliant.org/techquickie/ will get 20% off their annual premium subscription of Brilliant. Which GPU options should you ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QDpsVVJXYAs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QDpsVVJXYAs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QDpsVVJXYAs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Techquickie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-22T17:20:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZhCbJidnX-Q3J_Lq12Ho1FFdork",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bUCc5NGEthA"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-19T17:00:50Z",
+        "channelId": "UC0vBXGSyV14uvJ4hECDOl0Q",
+        "title": "Why Old Games Look So BAD",
+        "description": "Fix up your Nintendo Switch and more at https://ifixit.com/techquickie Why does upscaling old games cause them to look blurry, when better alternatives exist?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bUCc5NGEthA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bUCc5NGEthA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bUCc5NGEthA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Techquickie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-19T17:00:50Z"
+      }
+    }
+  ]
+}
