@@ -10,7 +10,6 @@
 	<title>Educational Videos - Knowledge Everyday</title>
 
 	<style>
-
 		#categoryLink {
 			text-decoration: none;
 			animation-fill-mode: forwards;;
@@ -27,7 +26,6 @@
 				color: #4f98ca;
 			}
 		}
-
 
 		#categories h3{
 			margin: 7px 15px 7px 15px;
@@ -138,125 +136,97 @@
 
 <script type="text/javascript">
 
-const apiKey = "AIzaSyCdlmaNQekWlzXTVCpQFfW6K4BSYAvpXHU";
-
-const scienceChannels = ["UCUHW94eEFW7hkUMVaZz4eDg", "UCeiYXex_fwgYDonaTcSIk6w", "UCHnyfMqiRRG1u-2MsSQLbXA", "UC6nSFpj9HTCZ5t-N3Rm3-HA", "UC6107grRI4m0o2-emgoDnAA", "UCxqAWLTk1CmBvZFPzeZMd9A"];
-
-const techChannels = ["UC0vBXGSyV14uvJ4hECDOl0Q", "UCVLZmDKeT-mV4H3ToYXIFYg"];
-
-const mathChannels = ["UCoxcjq-8xIDTYp3uz647V5A", "UCHnj59g7jezwTy5GeL8EA_g", "UConVfxXodg78Tzh5nNu85Ew", "UCYO_jab_esuFRV4b17AJtAw"];
-
-const travelChannels = ["UCmmPgObSUPw1HL2lq6H4ffA", "UC_DmOS_FBvO4H27U7X0OtRg", "UCckFCPnDSf9mMCkdEq7tTcQ", "UCs5GnuB9y1pSWswQPLF2kXA"];
+let channelSizes = [5, 2, 3, 4];
 
 function getVideoScience() {
     return new Promise((resolve, reject) => {
-    	var channelIdOrder = Math.floor(Math.random() * scienceChannels.length);
+        var randomChannelId = Math.floor(Math.random() * (channelSizes[0]));
+        var dataUrl = "https://andrejvelichkovski.github.io/Educational-Agregator/resources/videos_data/science" + String(randomChannelId) + ".json";
+        
+        fetch(dataUrl)
+        .then(response => response.json())
+        .then(json => {
 
-        var channelId = scienceChannels[channelIdOrder];
-       // var apiKey = "AIzaSyBp2Moe3yd22242oT2U51mjiiE3QCwp4KU";
-        var videosUrl = "https://www.googleapis.com/youtube/v3/search?order=date&part=snippet&channelId=" + channelId + "&maxResults=50&key=" + apiKey;
-      	var ajax = new XMLHttpRequest();
-        ajax.open("GET", videosUrl, true);
-        ajax.send();
+            console.log(json);
+            var videos = json.items;
+            var randomNumber = Math.floor(Math.random() * (videos.length + 1));
+            var randomVideo = videos[randomNumber];
 
-        ajax.onreadystatechange = function() {
-            if(this.readyState == 4 && this.status == 200) {
-                var json = JSON.parse(this.responseText); 
-                var videos = json.items;
+            var videoId = randomVideo.id.videoId;
 
-              	var randomNumber = Math.floor(Math.random() * (videos.length + 1));
-              	var randomVideo = videos[randomNumber];
+            var youtubeUrl = "https://www.youtube.com/embed/" + videoId;
 
-                var videoId = randomVideo.id.videoId;
-                var youtubeUrl = "https://www.youtube.com/embed/" + videoId;
-
-                resolve(youtubeUrl);
-          	}
-        }
+            resolve(youtubeUrl);
+        });
     });
 }
 
 function getVideoTech() {
     return new Promise((resolve, reject) => {
-    	var channelIdOrder = Math.floor(Math.random() * techChannels.length);
+        var randomChannelId = Math.floor(Math.random() * (channelSizes[1]));
+        var dataUrl = "https://andrejvelichkovski.github.io/Educational-Agregator/resources/videos_data/tech" + String(randomChannelId) + ".json";
+        
+        fetch(dataUrl)
+        .then(response => response.json())
+        .then(json => {
 
-        var channelId = techChannels[channelIdOrder];
-       // var apiKey = "AIzaSyBp2Moe3yd22242oT2U51mjiiE3QCwp4KU";
-        var videosUrl = "https://www.googleapis.com/youtube/v3/search?order=date&part=snippet&channelId=" + channelId + "&maxResults=50&key=" + apiKey;
-      	var ajax = new XMLHttpRequest();
-        ajax.open("GET", videosUrl, true);
-        ajax.send();
+            console.log(json);
+            var videos = json.items;
+            var randomNumber = Math.floor(Math.random() * (videos.length + 1));
+            var randomVideo = videos[randomNumber];
 
-        ajax.onreadystatechange = function() {
-            if(this.readyState == 4 && this.status == 200) {
-                var json = JSON.parse(this.responseText); 
-                var videos = json.items;
+            var videoId = randomVideo.id.videoId;
 
-              	var randomNumber = Math.floor(Math.random() * (videos.length + 1));
-              	var randomVideo = videos[randomNumber];
+            var youtubeUrl = "https://www.youtube.com/embed/" + videoId;
 
-                var videoId = randomVideo.id.videoId;
-                var youtubeUrl = "https://www.youtube.com/embed/" + videoId;
-
-                resolve(youtubeUrl);
-          	}
-        }
+            resolve(youtubeUrl);
+        });
     });
 }
 
 function getVideoMath() {
     return new Promise((resolve, reject) => {
-    	var channelIdOrder = Math.floor(Math.random() * mathChannels.length);
+        var randomChannelId = Math.floor(Math.random() * (channelSizes[2]));
+        var dataUrl = "https://andrejvelichkovski.github.io/Educational-Agregator/resources/videos_data/math" + String(randomChannelId) + ".json";
+        
+        fetch(dataUrl)
+        .then(response => response.json())
+        .then(json => {
 
-        var channelId = mathChannels[channelIdOrder];
-       // var apiKey = "AIzaSyBp2Moe3yd22242oT2U51mjiiE3QCwp4KU";
-        var videosUrl = "https://www.googleapis.com/youtube/v3/search?order=date&part=snippet&channelId=" + channelId + "&maxResults=50&key=" + apiKey;
-      	var ajax = new XMLHttpRequest();
-        ajax.open("GET", videosUrl, true);
-        ajax.send();
+            console.log(json);
+            var videos = json.items;
+            var randomNumber = Math.floor(Math.random() * (videos.length + 1));
+            var randomVideo = videos[randomNumber];
 
-        ajax.onreadystatechange = function() {
-            if(this.readyState == 4 && this.status == 200) {
-                var json = JSON.parse(this.responseText); 
-                var videos = json.items;
+            var videoId = randomVideo.id.videoId;
 
-              	var randomNumber = Math.floor(Math.random() * (videos.length + 1));
-              	var randomVideo = videos[randomNumber];
+            var youtubeUrl = "https://www.youtube.com/embed/" + videoId;
 
-                var videoId = randomVideo.id.videoId;
-                var youtubeUrl = "https://www.youtube.com/embed/" + videoId;
-
-                resolve(youtubeUrl);
-          	}
-        }
+            resolve(youtubeUrl);
+        });
     });
 }
 
 function getVideoTravel() {
     return new Promise((resolve, reject) => {
-    	var channelIdOrder = Math.floor(Math.random() * travelChannels.length);
+        var randomChannelId = Math.floor(Math.random() * (channelSizes[3]));
+        var dataUrl = "https://andrejvelichkovski.github.io/Educational-Agregator/resources/videos_data/travel" + String(randomChannelId) + ".json";
+        
+        fetch(dataUrl)
+        .then(response => response.json())
+        .then(json => {
 
-        var channelId = travelChannels[channelIdOrder];
-        //var apiKey = "AIzaSyBp2Moe3yd22242oT2U51mjiiE3QCwp4KU";
-        var videosUrl = "https://www.googleapis.com/youtube/v3/search?order=date&part=snippet&channelId=" + channelId + "&maxResults=50&key=" + apiKey;
-      	var ajax = new XMLHttpRequest();
-        ajax.open("GET", videosUrl, true);
-        ajax.send();
+            console.log(json);
+            var videos = json.items;
+            var randomNumber = Math.floor(Math.random() * (videos.length + 1));
+            var randomVideo = videos[randomNumber];
 
-        ajax.onreadystatechange = function() {
-            if(this.readyState == 4 && this.status == 200) {
-                var json = JSON.parse(this.responseText); 
-                var videos = json.items;
+            var videoId = randomVideo.id.videoId;
 
-              	var randomNumber = Math.floor(Math.random() * (videos.length + 1));
-              	var randomVideo = videos[randomNumber];
+            var youtubeUrl = "https://www.youtube.com/embed/" + videoId;
 
-                var videoId = randomVideo.id.videoId;
-                var youtubeUrl = "https://www.youtube.com/embed/" + videoId;
-
-                resolve(youtubeUrl);
-          	}
-        }
+            resolve(youtubeUrl);
+        });
     });
 }
 
@@ -350,7 +320,7 @@ $(document).ready(function(){
 			<button id="buttonNewVideoScience" class="btn btn-default" style="min-width: 160px; margin-bottom: 15px;">Get new video</button>
 		</div>
 		<div>
-			<iframe width="560" height="315" src="https://www.youtube.com/embed/-bqbFbxjBig" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen id="videoScience" class="video"></iframe>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/Y47t9qLc9I4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen id="videoScience" class="video"></iframe>
 		</div>
 	</div>
 
